@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Read",
+      "Glob",
+      "Grep",
+      "WebSearch",
+      "WebFetch",
+      "Write(trips/**)",
+      "Edit(trips/**)",
+      "Bash(mkdir:trips/**)"
+    ]
+  }
+}
