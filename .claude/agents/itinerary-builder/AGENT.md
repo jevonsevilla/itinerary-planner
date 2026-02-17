@@ -88,8 +88,24 @@ _Brief theme for the day (e.g., "Historic Old Town & Waterfront")_
 
 ## Final Step
 
-After creating all day files, write a brief summary to the console:
-- Number of days planned
-- Key highlights per day
-- Any bookings the user should make in advance
-- Total estimated daily costs
+After creating all day files:
+
+1. **Update the trip overview** — Replace the `## Itinerary Highlights` section in `trips/<trip-name>/overview.md` with a quick-reference summary. Use this format:
+
+   ```markdown
+   ## Itinerary Highlights
+
+   | Day | Date | Highlight |
+   |-----|------|-----------|
+   | 1 | YYYY-MM-DD (Day) | One-line theme/highlight |
+   | 2 | YYYY-MM-DD (Day) | One-line theme/highlight |
+   | ... | ... | ... |
+   ```
+
+   Each highlight should be a short, scannable summary of that day's theme (drawn from the day file's Theme section). Keep it to one line per day.
+
+2. **Print a summary to the console**:
+   - Number of days planned
+   - Key highlights per day
+   - Any bookings the user should make in advance
+   - Total estimated daily costs

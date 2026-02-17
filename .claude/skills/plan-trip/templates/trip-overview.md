@@ -35,6 +35,10 @@
 | Transport | - | - | - |
 | **Total** | **-** | **-** | **-** |
 
+## Itinerary Highlights
+
+_Generated after itinerary is built._
+
 ## Status
 
 - [ ] Research completed
