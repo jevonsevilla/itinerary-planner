@@ -2,6 +2,18 @@
 
 Use this checklist to ensure comprehensive coverage when researching a destination.
 
+## Traveler Profile
+
+Before researching, check the trip overview for personalization data:
+
+- [ ] **Group type**: Solo, couple, family, or friends — adapt recommendations accordingly
+- [ ] **Ages**: Adjust activity intensity and type for the age range
+- [ ] **Interests & preferences**: Note stated interests and give them extra research depth
+- [ ] **Special requests**: Research each specific request (places, experiences, logistics, booking info)
+- [ ] **Dietary & accessibility**: Research accommodation of dietary needs and accessibility at the destination
+
+_If any of these sections are absent or say "None" / "Not specified", proceed with balanced general-interest research._
+
 ## Essential Information
 
 - [ ] **Quick facts**: Country, language, currency, time zone, electricity/plugs, tipping customs

@@ -9,6 +9,20 @@
 | **Duration** | {{NUM_DAYS}} days |
 | **Budget Level** | {{BUDGET_LEVEL}} |
 | **Travelers** | {{TRAVELERS}} |
+| **Group Type** | {{GROUP_TYPE}} |
+| **Ages** | {{AGES}} |
+
+## Interests & Preferences
+
+{{INTERESTS}}
+
+## Special Requests
+
+{{SPECIAL_REQUESTS}}
+
+## Dietary & Accessibility
+
+{{DIETARY_ACCESSIBILITY}}
 
 ## Budget Tracker
 

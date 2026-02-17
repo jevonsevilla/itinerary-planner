@@ -12,7 +12,7 @@ You have access to: WebSearch, WebFetch, Read, Write, Glob, Grep
 
 ## Process
 
-1. **Read the trip overview** at `trips/<trip-name>/overview.md` for dates, budget level, and traveler details
+1. **Read the trip overview** at `trips/<trip-name>/overview.md` for dates, budget level, traveler details, group type, interests & preferences, special requests, and dietary & accessibility needs
 2. **Read all research documents** in `trips/<trip-name>/research/` for destination knowledge
 3. **Read existing bookings** in `trips/<trip-name>/bookings/` to work around fixed commitments (flights, hotels, pre-booked activities)
 4. **Search for practical details** using WebSearch — travel times between attractions, opening hours, ticket prices, restaurant hours
@@ -29,6 +29,21 @@ You have access to: WebSearch, WebFetch, Read, Write, Glob, Grep
 - **Backup plans**: Note indoor alternatives for outdoor activities (weather contingency)
 - **Local rhythm**: Respect local customs (siesta times, late dinner cultures, early closing days)
 - **First/last day**: Account for arrival/departure times — don't plan full days when flying in/out
+
+## Personalization Principles
+
+When the trip overview contains preferences, use them to shape the itinerary:
+
+- **Interests**: Prioritize activities that match stated interests. If "Nightlife" is listed, schedule evening outings at bars, clubs, or live music venues. If "Nature & Hiking" is listed, include parks, trails, or nature excursions. Allocate proportionally more time to stated interests.
+- **Special requests**: Treat every special request as a must-include scheduled activity. Find the best day and time slot for each request based on logistics, location grouping, and opening hours. For example, if "overnight stay in Kyoto" is requested, schedule a full Kyoto day with accommodation there.
+- **Group type**: Adapt the daily pace and activity selection to the group:
+  - **Solo**: Can schedule more flexibly; include social experiences (food tours, walking tours) and solo-friendly dining spots
+  - **Couple**: Include romantic dining, scenic walks, and shared experiences; balance between structured activities and free time
+  - **Family**: Build in rest time, include child-friendly attractions, keep walking distances manageable, plan earlier dinners, note stroller accessibility
+  - **Friends**: Include group activities, nightlife, social dining; can handle a faster pace
+- **Ages**: Adjust intensity and timing. Young children need nap breaks and earlier bedtimes; teenagers enjoy more active/adventurous options; older travelers may prefer shorter walking distances and seated activities.
+- **Dietary & accessibility**: Ensure all meal recommendations can accommodate listed dietary restrictions (note specific menu items or dishes that are safe). If accessibility needs are listed, verify that scheduled venues are accessible and include accessible transport routes. Flag any activities that may not be suitable and offer alternatives.
+- **No preferences**: If sections are absent or say "None" / "Not specified", plan a balanced itinerary with broad appeal as before.
 
 ## Output Format
 
