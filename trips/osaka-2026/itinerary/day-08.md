@@ -1,0 +1,78 @@
+# Day 8 — 2026-04-24 (Friday)
+
+## Theme
+
+_Departure Day — Morning exploration, final shopping, airport transfer_
+
+## Schedule
+
+| Time | Activity | Location | Duration | Notes |
+|------|----------|----------|----------|-------|
+| 08:30-09:30 | Checkout & breakfast | Hotel → nearby café | 1 hr | Check out, store luggage if needed |
+| 09:30-11:00 | Morning visit to Sumiyoshi Taisha | Sumiyoshi Taisha | 1.5 hr | Free entry; one of Japan's oldest shrines |
+| 11:00-11:30 | Transit back to Namba | Sumiyoshi → Namba | 30 min | Nankai Line |
+| 11:30-13:30 | Final shopping & lunch | Namba area | 2 hr | Last souvenirs, light lunch |
+| 13:30-14:00 | Collect luggage, final prep | Hotel area | 30 min | Final pack check |
+| 14:00-14:15 | Walk to Namba Station | Namba area | 15 min | Allow extra time with luggage |
+| 14:30 | Nankai Rapi:t to KIX | Namba Station | 40 min | Arrive KIX ~15:10 |
+| 15:10-17:00 | Airport check-in, security, shopping | KIX Terminal 1 | 2 hr | Check-in opens 16:35 (3hr before) |
+| 19:35 | Depart KIX | KIX Terminal 1 | - | Cebu Pacific 5J 827 to MNL |
+
+## Meals
+
+| Meal | Restaurant/Plan | Cuisine | Est. Cost |
+|------|----------------|---------|-----------|
+| Breakfast | Café or convenience store | Japanese/Western | ¥600-1,000 |
+| Lunch | Quick ramen at Ichiran or Ippudo (Namba) | Ramen | ¥1,000-1,500 |
+| Snack | Airport konbini for flight snacks | Japanese | ¥500-1,000 |
+
+## Transport
+
+| From | To | Method | Duration | Cost |
+|------|------|--------|----------|------|
+| Namba | Sumiyoshi Taisha | Nankai Main Line | 15 min | ¥220 |
+| Sumiyoshi Taisha | Namba | Nankai Main Line | 15 min | ¥220 |
+| Namba Station | KIX | Nankai Rapi:t Limited Express | 40 min | ¥1,520 |
+
+## Notes
+
+- Booking required: Pre-purchase Rapi:t e-ticket online recommended
+- Tips:
+  - **Be at KIX by 17:00** for 19:35 flight (2.5hr before international departure)
+  - Cebu Pacific check-in opens 3hr before departure (16:35)
+  - Baggage: 7kg cabin bag strictly enforced — weigh at hotel if possible
+  - Sumiyoshi Taisha has unique architectural style unlike typical shrines — worth the morning visit
+  - Final shopping priorities: KitKat matcha, Uji matcha from Day 6, Osaka snacks, Japanese cosmetics
+  - KIX has duty-free shopping — save some yen
+  - IC card: keep for future trips or get ¥500 deposit refund at station
+  - Don't buy liquids/gels over 100ml if cabin bag only
+
+**Estimated Day Cost**: ¥4,500-6,500 (transport ¥1,960 + food ¥2,100-3,500 + snacks ¥500-1,000)
+
+---
+
+## Trip Summary
+
+**Total Estimated Cost (8 days, excluding flights & accommodation):**
+- Transport: ¥13,000-16,000
+- Attractions: ¥10,000-13,000
+- Food & meals: ¥32,000-48,000
+- Nightlife & drinks: ¥25,000-45,000
+- Shopping/misc: variable
+- **Subtotal: ~¥80,000-122,000**
+
+**Accommodation (7 nights):**
+- Osaka: 6 nights at ¥5,000-8,000/night = ¥30,000-48,000
+- Kyoto: 1 night at ¥8,000-15,000 = ¥8,000-15,000
+- **Total accommodation: ¥38,000-63,000**
+
+**Grand Total (excluding flights): ¥118,000-185,000 (~$770-1,200 USD)**
+
+**Trip Highlights:**
+- Mount Yoshino late cherry blossoms (Day 4)
+- Fushimi sake brewery district (Day 5)
+- Uji matcha-making experience (Day 6)
+- Saturday night bar crawl: Tenma standing bars → whisky bar → speakeasy (Day 2)
+- Farewell night: Ura Namba → Bar Nayuta speakeasy → whisky nightcap (Day 7)
+- Kyoto overnight with Pontocho evening drinking (Day 5)
+- Kobe beef lunch (Day 7)

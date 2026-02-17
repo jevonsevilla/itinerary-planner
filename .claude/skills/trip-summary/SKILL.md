@@ -22,6 +22,12 @@ Display a read-only summary of an existing trip's status.
 **Trip Overview**
 - Read `trips/<trip-name>/overview.md` and display destination, dates, duration, budget level
 
+**Traveler Profile** _(skip this section silently if the overview has no Interests, Special Requests, or Dietary & Accessibility sections)_
+- **Group**: Display group type and ages (if present)
+- **Interests**: List stated interests
+- **Special requests**: List any special requests
+- **Dietary & accessibility**: List any restrictions or needs
+
 **Research Status**
 - Use Glob to find files in `trips/<trip-name>/research/`
 - List destinations researched, or note if none yet

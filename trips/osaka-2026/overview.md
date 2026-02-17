@@ -4,29 +4,29 @@
 
 | Field | Details |
 |-------|---------|
-| **Destination** | Osaka |
+| **Destination** | Kansai Region, Japan |
 | **Dates** | 2026-04-17 to 2026-04-24 |
 | **Duration** | 8 days |
 | **Budget Level** | mid-range |
-| **Travelers** | TBD |
+| **Travelers** | 1 |
 
 ## Budget Tracker
 
 | Category | Estimated | Booked | Remaining |
 |----------|-----------|--------|-----------|
-| Flights | - | - | - |
+| Flights | - | PHP 13,000 | - |
 | Hotels | - | - | - |
 | Activities | - | - | - |
 | Food | - | - | - |
 | Transport | - | - | - |
-| **Total** | **-** | **-** | **-** |
+| **Total** | **-** | **PHP 13,000** | **-** |
 
 ## Status
 
-- [ ] Research completed
-- [ ] Flights booked
+- [x] Research completed
+- [x] Flights booked
 - [ ] Hotels booked
-- [ ] Itinerary built
+- [x] Itinerary built
 - [ ] Activities booked
 
 ## Notes
