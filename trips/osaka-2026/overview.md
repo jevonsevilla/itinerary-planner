@@ -35,12 +35,12 @@ _None_
 
 | Category | Estimated | Booked | Remaining |
 |----------|-----------|--------|-----------|
-| Flights | - | PHP 13,000 | - |
+| Flights | - | PHP 28,000 | - |
 | Hotels | - | - | - |
 | Activities | - | - | - |
 | Food | - | - | - |
 | Transport | - | - | - |
-| **Total** | **-** | **PHP 13,000** | **-** |
+| **Total** | **-** | **PHP 28,000** | **-** |
 
 ## Itinerary Highlights
 
@@ -48,12 +48,12 @@ _None_
 |-----|------|-----------|
 | 1 | 2026-04-17 (Fri) | Arrival & Friday Night — First taste of Dotonbori and Osaka nightlife |
 | 2 | 2026-04-18 (Sat) | Classic Osaka & Saturday Nightlife — Castle, markets, biggest night out |
-| 3 | 2026-04-19 (Sun) | Nara Day Trip — Friendly deer, ancient temples, Sunday drinks in Osaka |
+| 3 | 2026-04-19 (Sun) | Nara Day Trip — Friendly deer, ancient temples, Osaka Aquarium on the way back, Sunday drinks |
 | 4 | 2026-04-20 (Mon) | Mount Yoshino Cherry Blossoms — Late-blooming sakura on a quiet Monday |
 | 5 | 2026-04-21 (Tue) | Kyoto Day 1 — Fushimi Inari, sake district, Higashiyama, overnight in Kyoto |
 | 6 | 2026-04-22 (Wed) | Kyoto Day 2 + Uji — Arashiyama bamboo, Golden Pavilion, matcha in Uji |
-| 7 | 2026-04-23 (Thu) | Kobe Day Trip — Kobe beef lunch, harbor views, farewell Osaka night |
-| 8 | 2026-04-24 (Fri) | Departure — Morning exploration, final shopping, airport transfer |
+| 7 | 2026-04-23 (Thu) | Kobe Day Trip + Group Split — Kobe beef lunch together; Cathay Pacific group departs 17:35, Cebu Pacific group has farewell Osaka night |
+| 8 | 2026-04-24 (Fri) | Cebu Pacific Departure — Morning exploration, final shopping, airport transfer |
 
 ## Status
 
