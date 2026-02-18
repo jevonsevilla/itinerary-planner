@@ -8,18 +8,20 @@ _Nara Day Trip & Sunday Night — Friendly deer, ancient temples, then Sunday dr
 
 | Time | Activity | Location | Duration | Notes |
 |------|----------|----------|----------|-------|
-| 09:00-09:30 | Late breakfast (recover from Saturday) | Namba area | 30 min | Take it easy this morning |
-| 09:30-10:20 | Transit to Nara | JR Namba → JR Nara | 50 min | JR Yamatoji Rapid, ¥570 |
-| 10:20-10:40 | Walk to Nara Park | JR Nara → Nara Park | 20 min | Through shopping arcade |
-| 10:40-12:30 | Nara Park & deer feeding | Nara Park | 2 hr | Free entry; deer crackers ¥200 |
-| 12:30-13:30 | Todaiji Temple & Great Buddha | Todaiji | 1 hr | ¥600 entry, 15m-tall Buddha |
-| 13:30-14:30 | Lunch in Nara | Near Nara Park | 1 hr | Kakinoha-zushi or local set meal |
-| 14:30-15:30 | Kasuga Taisha Shrine | Kasuga Taisha | 1 hr | ¥500 inner area; famous stone lanterns |
-| 15:30-16:00 | Stroll through Naramachi | Naramachi | 30 min | Traditional merchant district |
-| 16:00-16:50 | Return to Osaka | JR Nara → Namba | 50 min | JR Yamatoji Rapid |
-| 17:00-18:30 | Rest & freshen up | Hotel | 1.5 hr | Recharge for Sunday evening |
+| 09:00-09:30 | Breakfast | Namba area | 30 min | Take it easy this morning |
+| 09:30-09:50 | Transit to Aquarium | Namba → Osakako | 20 min | Metro Midosuji → Chuo Line, ¥230 |
+| 10:00-11:30 | **Osaka Aquarium Kaiyukan** | Tempozan | 1.5 hr | ¥2,700; whale shark tank, giant spider crab — opens 10:00 |
+| 11:30-12:00 | Transit to Namba | Osakako → Namba | 20 min | Metro Chuo Line |
+| 12:00-12:50 | Transit to Nara | JR Namba → JR Nara | 50 min | JR Yamatoji Rapid, ¥570 |
+| 12:50-13:10 | Walk to Nara Park | JR Nara → Nara Park | 20 min | Through shopping arcade |
+| 13:10-14:30 | Nara Park & deer feeding | Nara Park | 1.5 hr | Free entry; deer crackers ¥200 |
+| 14:30-15:30 | Todaiji Temple & Great Buddha | Todaiji | 1 hr | ¥600 entry, 15m-tall Buddha |
+| 15:30-16:30 | Lunch in Nara | Near Nara Park | 1 hr | Kakinoha-zushi or local set meal |
+| 16:30-17:15 | Kasuga Taisha Shrine | Kasuga Taisha | 45 min | ¥500 inner area; famous stone lanterns |
+| 17:15-18:05 | Return to Osaka | JR Nara → Namba | 50 min | JR Yamatoji Rapid |
+| 18:05-18:30 | Rest & freshen up | Hotel | 25 min | Quick change before dinner |
 | 18:30-20:00 | Dinner in Namba | Namba area | 1.5 hr | Casual dinner |
-| 20:00-23:00 | **Sunday night drinks** | Various (see below) | 3 hr | More relaxed than Saturday |
+| 20:00-22:30 | **Sunday night drinks** | Various (see below) | 2.5 hr | More relaxed than Saturday |
 
 ## Meals
 
@@ -33,6 +35,8 @@ _Nara Day Trip & Sunday Night — Friendly deer, ancient temples, then Sunday dr
 
 | From | To | Method | Duration | Cost |
 |------|------|--------|----------|------|
+| Namba | Osakako (Aquarium) | Metro Midosuji → Chuo Line | 20 min | ¥230 |
+| Osakako | Namba | Metro Chuo Line | 20 min | ¥230 |
 | JR Namba | JR Nara | JR Yamatoji Rapid | 50 min | ¥570 |
 | JR Nara | Nara Park | Walk | 15-20 min | ¥0 |
 | JR Nara | JR Namba | JR Yamatoji Rapid | 50 min | ¥570 |
@@ -64,4 +68,4 @@ _Sunday night = sake education night. More mellow than Saturday but still fun._
   - Shimada Shoten closes early (Mon-Fri 9am-7pm, Sat 9am-6pm, closed Sun) — **skip if Sunday; swap to Monday evening**
   - Alternative Sunday sake: Nihonshu Unagidani (Shinsaibashi) — casual standing sake bar
 
-**Estimated Day Cost**: ¥12,000-18,000 (transport ¥1,140 + attractions ¥1,300 + food ¥4,000-6,000 + drinks ¥4,000-7,000)
+**Estimated Day Cost**: ¥14,700-20,700 (transport ¥1,600 + attractions ¥4,000 [Nara + aquarium] + food ¥4,000-6,000 + drinks ¥4,000-7,000)

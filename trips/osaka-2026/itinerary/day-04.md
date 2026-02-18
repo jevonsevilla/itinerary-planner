@@ -16,7 +16,7 @@ _Mount Yoshino Cherry Blossoms — Chase late-blooming sakura at Japan's most fa
 | 11:00-12:00 | Lunch on the mountain | Naka-Senbon area | 1 hr | Kakinoha-zushi (persimmon leaf sushi) |
 | 12:00-13:30 | Hike to Kami-Senbon | Upper slopes | 1.5 hr | **Hanayagura Viewpoint** — panoramic cherry blossom views |
 | 13:30-15:00 | Continue to Oku-Senbon | Innermost/highest area | 1.5 hr | **Latest blooms**, Yoshino Mikumari Shrine |
-| 15:00-16:00 | Descend back to Yoshino Station | Mountain → Station | 1 hr | Downhill, photo stops |
+| 15:00-16:00 | Descend back to Yoshino Station | Mountain → Station | 1 hr | Downhill, photo stops — Hanayagura Viewpoint on the way down |
 | 16:00-17:16 | Kintetsu Limited Express return | Yoshino → Abenobashi | 76 min | ¥1,480 |
 | 17:16-17:45 | Transit back to Namba | Abenobashi → Namba | 15 min | Walk |
 | 18:00-19:30 | Dinner in Namba | Namba area | 1.5 hr | Hearty post-hike meal |

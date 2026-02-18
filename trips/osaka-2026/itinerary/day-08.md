@@ -1,5 +1,7 @@
 # Day 8 — 2026-04-24 (Friday)
 
+> **Cebu Pacific group only** — Cathay Pacific group departed yesterday (Apr 23, 17:35).
+
 ## Theme
 
 _Departure Day — Morning exploration, final shopping, airport transfer_
