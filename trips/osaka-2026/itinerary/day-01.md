@@ -4,7 +4,26 @@
 
 _Arrival & Friday Night — First taste of Dotonbori's neon streets and Osaka nightlife_
 
-## Schedule
+> **✈️ Two arrival groups today**: Cathay Pacific lands 15:10 (Terminal 2) — 3+ hours ahead of the Cebu Pacific group (18:20, Terminal 1). Early arrivers have time to explore before the full group reunites around 20:45.
+
+---
+
+## Early Arrivers — Cathay Pacific Group (KIX 15:10 arrival)
+
+| Time | Activity | Location | Duration | Notes |
+|------|----------|----------|----------|-------|
+| 15:10-15:55 | Immigration, baggage claim, customs | KIX Terminal 2 | 45 min | — |
+| 15:55-16:10 | Purchase Nankai Rapi:t e-ticket + buy IC card | KIX Station | 15 min | ¥1,520 reserved seat; ICOCA for the whole trip |
+| 16:15-16:55 | Nankai Rapi:t to Namba | KIX → Namba | 40 min | First Japan train ride — enjoy the ride |
+| 16:55-17:30 | Check in to hotel | Namba/Minami area | 35 min | Request early check-in; store bags if room not ready |
+| 17:30-19:00 | Scout Dotonbori & Shinsaibashi | Dotonbori → Shinsaibashi | 1.5 hr | Walk the canal, spot the Glico sign, browse Shinsaibashi arcade |
+| 19:00-19:30 | Early snack | Dotonbori | 30 min | Optional: takoyaki at Wanaka to tide over until group dinner |
+| 19:30-20:00 | Rest at hotel | Hotel | 30 min | Freshen up before the full group arrives |
+| ~20:45 | **Full group reunites** | Hotel | — | Cebu Pacific group finishes check-in — head out together |
+
+---
+
+## Main Arrival — Cebu Pacific Group (KIX 18:20 arrival)
 
 | Time | Activity | Location | Duration | Notes |
 |------|----------|----------|----------|-------|
@@ -13,6 +32,13 @@ _Arrival & Friday Night — First taste of Dotonbori's neon streets and Osaka ni
 | 19:00-19:15 | Purchase Nankai Rapi:t e-ticket | KIX Station | 15 min | ¥1,520 reserved seat |
 | 19:30-20:10 | Nankai Rapi:t to Namba | KIX → Namba | 40 min | Relax, enjoy train |
 | 20:10-20:45 | Check in to hotel | Namba/Minami area | 35 min | Drop bags, freshen up |
+
+---
+
+## Full Group — Evening (from ~20:45)
+
+| Time | Activity | Location | Duration | Notes |
+|------|----------|----------|----------|-------|
 | 20:45-22:00 | Dotonbori street food crawl | Dotonbori | 1.5 hr | Takoyaki, kushikatsu, Glico sign |
 | 22:00-23:30 | Friday night drinks | Hozenji Yokocho / Namba | 1.5 hr | Atmospheric lantern-lit alley |
 | 23:30 | Return to hotel | Namba area | - | Rest up for big Saturday |

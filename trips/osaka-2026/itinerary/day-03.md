@@ -60,6 +60,10 @@ _Sunday night = sake education night. More mellow than Saturday but still fun._
 
 - Cherry blossoms: Nara has late-blooming "Naranoyaezakura" (double cherry variety) that blooms late April — you may spot some in the park
 - Booking required: None
+- **⏭️ Skippable: Kasuga Taisha** — if temple/shrine fatigue sets in, skip it and use the time for:
+  - **Isui-en Garden** (¥900) — one of the most beautiful traditional Japanese gardens in Nara, right next to Todaiji
+  - **Yoshiki-en Garden** (¥250, free for foreigners) — quieter, mossy, peaceful
+  - More time in Nara Park with the deer and browsing Naramachi
 - Tips:
   - Later start is fine — Nara is compact and half-day is sufficient
   - Deer can be aggressive when they see crackers; bow to them first (they bow back!)

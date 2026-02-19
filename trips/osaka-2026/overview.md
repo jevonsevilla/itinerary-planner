@@ -46,14 +46,14 @@ _None_
 
 | Day | Date | Highlight |
 |-----|------|-----------|
-| 1 | 2026-04-17 (Fri) | Arrival & Friday Night — First taste of Dotonbori and Osaka nightlife |
+| 1 | 2026-04-17 (Fri) | Two-Group Arrival & Friday Night — Cathay Pacific earlybirds arrive 15:10 and scout Dotonbori; Cebu Pacific group arrives 18:20; full group reunites at ~20:45 for street food and nightlife |
 | 2 | 2026-04-18 (Sat) | Classic Osaka & Saturday Nightlife — Castle, markets, biggest night out |
-| 3 | 2026-04-19 (Sun) | Nara Day Trip — Friendly deer, ancient temples, Osaka Aquarium on the way back, Sunday drinks |
+| 3 | 2026-04-19 (Sun) | Nara Day Trip — Osaka Aquarium Kaiyukan first, then friendly deer and ancient temples in Nara, Sunday sake tasting in Osaka |
 | 4 | 2026-04-20 (Mon) | Mount Yoshino Cherry Blossoms — Late-blooming sakura on a quiet Monday |
 | 5 | 2026-04-21 (Tue) | Kyoto Day 1 — Fushimi Inari, sake district, Higashiyama, overnight in Kyoto |
-| 6 | 2026-04-22 (Wed) | Kyoto Day 2 + Uji — Arashiyama bamboo, Golden Pavilion, matcha in Uji |
+| 6 | 2026-04-22 (Wed) | Kyoto Day 2 + Uji — Arashiyama bamboo, Golden Pavilion, matcha-making at Fukujuen Uji, Byodo-in Temple, return to Osaka |
 | 7 | 2026-04-23 (Thu) | Kobe Day Trip + Group Split — Kobe beef lunch together; Cathay Pacific group departs 17:35, Cebu Pacific group has farewell Osaka night |
-| 8 | 2026-04-24 (Fri) | Cebu Pacific Departure — Morning exploration, final shopping, airport transfer |
+| 8 | 2026-04-24 (Fri) | Cebu Pacific Departure — Morning visit to Sumiyoshi Taisha shrine, final shopping in Namba, airport transfer |
 
 ## Status
 

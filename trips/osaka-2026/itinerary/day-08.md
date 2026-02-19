@@ -39,11 +39,14 @@ _Departure Day — Morning exploration, final shopping, airport transfer_
 ## Notes
 
 - Booking required: Pre-purchase Rapi:t e-ticket online recommended
+- **⏭️ Skippable: Sumiyoshi Taisha** — if you'd rather spend the last morning differently, swap for:
+  - **Kuromon Ichiba Market** — morning is the best time, grab fresh snacks and last-minute food souvenirs
+  - **Namba Parks rooftop garden** — free, relaxed, nice views; easy walk from the hotel
+  - Just more time in Dotonbori/Shinsaibashi for final shopping and a slow breakfast
 - Tips:
   - **Be at KIX by 17:00** for 19:35 flight (2.5hr before international departure)
   - Cebu Pacific check-in opens 3hr before departure (16:35)
   - Baggage: 7kg cabin bag strictly enforced — weigh at hotel if possible
-  - Sumiyoshi Taisha has unique architectural style unlike typical shrines — worth the morning visit
   - Final shopping priorities: KitKat matcha, Uji matcha from Day 6, Osaka snacks, Japanese cosmetics
   - KIX has duty-free shopping — save some yen
   - IC card: keep for future trips or get ¥500 deposit refund at station

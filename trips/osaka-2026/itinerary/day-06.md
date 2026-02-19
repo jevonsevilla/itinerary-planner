@@ -58,6 +58,10 @@ _Wednesday is a transition day — lots of moving. Keep the evening relaxed._
 - Cherry blossoms: Philosopher's Path trees mostly finished; possible late yaezakura. Arashiyama is beautiful regardless of blossoms.
 - Booking required: **Book Fukujuen Uji Kobo matcha experience in advance** (online or phone). Check out of Kyoto hotel.
 - Weather backup: Temples provide cover; matcha workshop is fully indoors
+- **⏭️ Skippable: Tenryu-ji** — the garden is beautiful but if you'd rather skip it, use the time for:
+  - **Monkey Park Iwatayama** (¥600) — hike up to 170 wild monkeys with panoramic Kyoto views; more fun, very different vibe
+  - **Hozugawa River boat ride** (¥4,100) — scenic 16km gorge ride through mountains into Arashiyama; book in advance
+  - Slow rickshaw ride through the bamboo grove area (¥4,000–13,000 depending on route)
 - Tips:
   - **Arrive Arashiyama by 8:30 AM** to beat tour bus crowds in bamboo grove
   - Kinkakuji is beautiful but compact — 1 hour is enough
