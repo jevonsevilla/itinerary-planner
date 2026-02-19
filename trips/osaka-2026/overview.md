@@ -1,25 +1,24 @@
-# Osaka 2026
+# Osaka 2026 🇯🇵
 
-## Trip Details
+## 📋 Trip Details
 
 | Field | Details |
 |-------|---------|
 | **Destination** | Kansai Region, Japan |
 | **Dates** | 2026-04-17 to 2026-04-24 |
 | **Duration** | 8 days |
-| **Budget Level** | mid-range |
+| **Budget Level** | Mid-range |
 | **Travelers** | 4 |
 | **Group Type** | Friends |
-| **Ages** | Not specified |
 
-## Interests & Preferences
+## ❤️ Interests & Preferences
 
 - Nightlife
 - Food & Dining
 - Nature & Hiking
 - History & Culture
 
-## Special Requests
+## ✨ Special Requests
 
 - Cherry blossom viewing (Mount Yoshino)
 - Day trip to Nara
@@ -27,22 +26,18 @@
 - Visit Uji for matcha
 - Kobe beef experience
 
-## Dietary & Accessibility
-
-_None_
-
-## Budget Tracker
+## 💰 Budget
 
 | Category | Estimated | Booked | Remaining |
 |----------|-----------|--------|-----------|
-| Flights | - | PHP 28,000 | - |
-| Hotels | - | - | - |
-| Activities | - | - | - |
-| Food | - | - | - |
-| Transport | - | - | - |
-| **Total** | **-** | **PHP 28,000** | **-** |
+| Flights | — | PHP 28,000 | — |
+| Hotels | — | — | — |
+| Activities | — | — | — |
+| Food | — | — | — |
+| Transport | — | — | — |
+| **Total** | **—** | **PHP 28,000** | **—** |
 
-## Itinerary Highlights
+## 📅 Day-by-Day
 
 | Day | Date | Highlight |
 |-----|------|-----------|
@@ -55,7 +50,7 @@ _None_
 | 7 | 2026-04-23 (Thu) | Kobe Day Trip + Group Split — Kobe beef lunch together; Cathay Pacific group departs 17:35, Cebu Pacific group has farewell Osaka night |
 | 8 | 2026-04-24 (Fri) | Cebu Pacific Departure — Morning visit to Sumiyoshi Taisha shrine, final shopping in Namba, airport transfer |
 
-## Status
+## ✅ Status
 
 - [x] Research completed
 - [x] Flights booked
@@ -63,6 +58,6 @@ _None_
 - [x] Itinerary built
 - [ ] Activities booked
 
-## Notes
+## 📝 Notes
 
 _Add any trip notes here._
