@@ -18,6 +18,7 @@ _Free morning to rest and recharge, then Yoshino in the afternoon for the best l
 | 14:30 | Activity | Explore Shimo-Senbon | Lower slopes | — | Kinpusen-ji Temple, cherry trees, souvenir shops |
 | 15:15 | Meal | Late lunch — kakinoha-zushi | Naka-Senbon area | ¥1,500–2,500 | Yadoroku or Hatsuse; persimmon leaf sushi — a Yoshino specialty |
 | 16:15 | Activity | Hike to Kami-Senbon & Hanayagura Viewpoint | Upper slopes | — | ~60 min up; pace yourself — you'll be walking all the way back down later |
+| *(alt)* | Activity | *Continue to Oku-Senbon instead* | *Oku-Senbon* | *—* | *If Kami blooms are past peak on arrival — ~30 min further on foot; trade less Hanayagura time for the freshest blooms on the mountain* |
 | 17:15 | Activity | Rest at Kami-Senbon — find your spot | Hanayagura Viewpoint | ¥500–800 | Settle at Hanayagura before the light shifts; grab kudzu mochi or sakura mochi from any remaining stalls |
 | 17:45 | Activity | **Golden hour photography — Hanayagura Viewpoint** | Kami-Senbon / Hanayagura | — | Sunset ~18:50; the whole mountain turns amber-pink across 30,000 trees — the single best light of the trip; stay for the full hour |
 | 18:50 | Activity | Full descent to Yoshino Station | Mountain → Station | — | ~60 min on foot all the way down, including the steep ropeway section; use phone torch for the last stretch |
@@ -25,15 +26,19 @@ _Free morning to rest and recharge, then Yoshino in the afternoon for the best l
 | 21:20 | Transit | Walk to Namba | Abenobashi → Namba | ¥0 | 15 min walk |
 | 21:30 | Meal | Late dinner — ramen or izakaya | Namba / Dotonbori | ¥1,000–2,000 | Ichiran ramen on Dotonbori is open late and ideal after a long day; multiple izakaya open until midnight |
 
+## Alternatives
+
+- **Oku-Senbon instead of Kami-Senbon** — If on arrival you find Kami-Senbon blooms are already past peak, continue up to Oku-Senbon (the uppermost zone, ~30 min further on foot). Oku blooms latest and will be at or near full peak in mid-to-late April. Trade-off: less time at Hanayagura, but you get the freshest blooms. Check local bloom reports (吉野山桜情報) on the morning of your visit.
+
 ## Notes
 
 - **Book ahead**: Kintetsu Limited Express reserved seats recommended — purchase at station or online.
-- **Cherry blossoms**: **This is THE highlight of the trip!** Yoshino has 30,000 trees blooming base-to-summit. By April 20, lower slopes may be finishing but **Kami-Senbon and Oku-Senbon bloom mid-to-late April** — perfect timing. Hanayagura Viewpoint offers the best panoramic view.
+- **Cherry blossoms**: **This is THE highlight of the trip!** Yoshino has 30,000 trees blooming base-to-summit. By April 20, lower slopes will be finishing; **Kami-Senbon is the target** — it blooms mid-to-late April and Hanayagura Viewpoint there gives the best panoramic view. Oku-Senbon (uppermost zone) blooms slightly later and is kept as a contingency — see Alternatives above.
 - **Golden hour**: Sunset is ~18:50 on April 20 at Yoshino. Be at Hanayagura Viewpoint by 17:45 — the amber-pink light across the blooms is stunning and lasts a full hour. This is the visual peak of the whole trip; don't rush it.
 - **Tips**:
   - **Monday at Yoshino** — off-peak weekday, far fewer crowds than weekends
   - Ropeway is **one-way up only** — you'll walk the full descent (~60 min), including the steep section the ropeway covers
-  - 4 areas from bottom to top: Shimo-Senbon → Naka-Senbon → Kami-Senbon → Oku-Senbon (skipping Oku-Senbon today — not enough time)
+  - 4 areas from bottom to top: Shimo-Senbon → Naka-Senbon → Kami-Senbon → Oku-Senbon
   - Kintetsu is NOT covered by JR Pass — it's a private railway
   - The **Limited Express last runs ~16:04** from Yoshino — evening return is by regular express (~90 min, ¥1,170)
   - Wear hiking shoes; ~300m net elevation gain, ~5.5km total walking on the mountain
