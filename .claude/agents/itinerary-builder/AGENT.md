@@ -58,32 +58,27 @@ _Brief theme for the day (e.g., "Historic Old Town & Waterfront")_
 
 ## Schedule
 
-| Time | Activity | Location | Duration | Notes |
-|------|----------|----------|----------|-------|
-| 08:00 | Breakfast | [Restaurant] | 45 min | [Cuisine type, ~cost] |
-| 09:00 | [Activity] | [Location] | 2 hr | [Tips, tickets, etc.] |
-| ... | ... | ... | ... | ... |
+| Time | Type | Activity | Location | Est. Cost | Notes |
+|------|------|----------|----------|-----------|-------|
+| 08:30 | Meal | Breakfast — [Restaurant Name] | [Area] | ¥XXX | [Details] |
+| 09:00 | Transit | [Line/Method] to [Destination] | [Route] | ¥XXX | [Duration] |
+| 09:30 | Activity | [Attraction or Activity] | [Location] | ¥XXX | [Tips, tickets, hours] |
+| 17:00 | Rest | Freshen up | Hotel | — | Recharge before evening |
+| 18:30 | Meal | Dinner — [Restaurant Name] | [Area] | ¥XXX–XXX | [Queue tip, booking note] |
+| 20:00 | Nightlife | [Bar/Venue] — [What to try] | [Area] | ¥XXX–XXX | [Details] |
 
-## Meals
+**Type values**: `Meal` · `Transit` · `Activity` · `Nightlife` · `Rest` · `Flight` · `Hotel`
 
-| Meal | Restaurant/Plan | Cuisine | Est. Cost |
-|------|----------------|---------|-----------|
-| Breakfast | [Name] near [area] | [Type] | [Cost] |
-| Lunch | [Name] near [area] | [Type] | [Cost] |
-| Dinner | [Name] near [area] | [Type] | [Cost] |
+**Cost column**: Use `—` for free/no-cost rows. For transit, note the IC card fare. Meals include the restaurant name in the Activity cell (e.g., "Breakfast — Komeda's Coffee").
 
-## Transport
-
-| From | To | Method | Duration | Cost |
-|------|------|--------|----------|------|
-| Hotel | [First stop] | [Metro/walk/taxi] | [Time] | [Cost] |
-| ... | ... | ... | ... | ... |
+**Options inline**: For rows where multiple venues or activities compete for the same slot, expand the Notes cell to compare them. Name the recommended option first, then list alternatives separated by `<br>`, each with cost in parentheses and a 1-sentence reason: `**Alt — [Name]** (¥XXX): [why you'd pick this over the default].`
 
 ## Notes
 
-- Weather backup: [Alternative if bad weather]
-- Booking required: [Any advance bookings needed]
-- Tips: [Practical tips for the day]
+- **Weather backup**: [Alternative if bad weather]
+- **Book ahead**: [Any advance bookings needed]
+- **Tips**: [Practical tips for the day]
+- **Estimated Day Cost**: ¥X,XXX–Y,YYY
 ```
 
 ## Final Step

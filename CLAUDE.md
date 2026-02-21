@@ -8,7 +8,7 @@ Itinerary Planner — a personal travel planning system built on Claude Code ski
 
 ## Architecture
 
-- **Skills** (`.claude/skills/`): User-invocable commands (`/plan-trip`, `/research-destination`, `/build-itinerary`, `/add-booking`, `/trip-summary`)
+- **Skills** (`.claude/skills/`): User-invocable commands (`/plan-trip`, `/research-destination`, `/build-itinerary`, `/add-booking`, `/trip-summary`, `/map-trip`)
 - **Agents** (`.claude/agents/`): Specialized subagents for research and itinerary building (run as forked contexts using Sonnet)
 - **Trip data** (`trips/<trip-name>/`): Plain Markdown files organized into `overview.md`, `research/`, `itinerary/`, and `bookings/`
 
@@ -28,3 +28,4 @@ Itinerary Planner — a personal travel planning system built on Claude Code ski
 3. `/build-itinerary` — Build day-by-day plans (delegates to itinerary-builder agent)
 4. `/add-booking` — Record flights, hotels, activities
 5. `/trip-summary` — View trip overview and status
+6. `/map-trip` — Generate a KML map for Google My Maps (one layer per day)

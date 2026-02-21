@@ -51,6 +51,8 @@ Display a read-only summary of an existing trip's status.
   - No research? → `/research-destination`
   - No itinerary? → `/build-itinerary`
   - Missing bookings? → `/add-booking`
+  - Itinerary exists but no KML? → Use Glob to check for `trips/<trip-name>/*.kml`. If no KML file exists, suggest `/map-trip`
+  - KML exists but itinerary changed? → Use Bash (`stat -f "%m" <file>`) to compare the KML file's modification time against each day file in `trips/<trip-name>/itinerary/`. If any day file is newer than the KML, warn: "Itinerary has changed since the map was last generated" and suggest re-running `/map-trip` to update it
   - Everything done? → "Trip is fully planned!"
 
 ### Output Format
