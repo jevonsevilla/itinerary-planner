@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Osaka 2026 — 8-Day Itinerary</name>
+  <description>Apr 17–24, 2026 | Osaka · Nara · Yoshino · Kyoto · Uji · Kobe</description>
+
+  <!-- ===== STYLES: one icon + line style per day ===== -->
+
+  <!-- Day 1: Red -->
+  <Style id="day1-pin">
+    <IconStyle>
+      <scale>1.1</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/1.png</href></Icon>
+      <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+  </Style>
+  <Style id="day1-line">
+    <LineStyle><color>ff0000cc</color><width>3</width></LineStyle>
+  </Style>
+
+  <!-- Day 2: Blue -->
+  <Style id="day2-pin">
+    <IconStyle>
+      <scale>1.1</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/2.png</href></Icon>
+      <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+  </Style>
+  <Style id="day2-line">
+    <LineStyle><color>ffcc3300</color><width>3</width></LineStyle>
+  </Style>
+
+  <!-- Day 3: Green -->
+  <Style id="day3-pin">
+    <IconStyle>
+      <scale>1.1</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/3.png</href></Icon>
+      <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+  </Style>
+  <Style id="day3-line">
+    <LineStyle><color>ff00aa00</color><width>3</width></LineStyle>
+  </Style>
+
+  <!-- Day 4: Pink -->
+  <Style id="day4-pin">
+    <IconStyle>
+      <scale>1.1</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/4.png</href></Icon>
+      <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+  </Style>
+  <Style id="day4-line">
+    <LineStyle><color>ffbb66ff</color><width>3</width></LineStyle>
+  </Style>
+
+  <!-- Day 5: Purple -->
+  <Style id="day5-pin">
+    <IconStyle>
+      <scale>1.1</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/5.png</href></Icon>
+      <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+  </Style>
+  <Style id="day5-line">
+    <LineStyle><color>ffcc0099</color><width>3</width></LineStyle>
+  </Style>
+
+  <!-- Day 6: Teal -->
+  <Style id="day6-pin">
+    <IconStyle>
+      <scale>1.1</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/6.png</href></Icon>
+      <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+  </Style>
+  <Style id="day6-line">
+    <LineStyle><color>ffaaaa00</color><width>3</width></LineStyle>
+  </Style>
+
+  <!-- Day 7: Orange -->
+  <Style id="day7-pin">
+    <IconStyle>
+      <scale>1.1</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/7.png</href></Icon>
+      <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+  </Style>
+  <Style id="day7-line">
+    <LineStyle><color>ff0088ff</color><width>3</width></LineStyle>
+  </Style>
+
+  <!-- Day 8: Gray -->
+  <Style id="day8-pin">
+    <IconStyle>
+      <scale>1.1</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/8.png</href></Icon>
+      <hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+    </IconStyle>
+  </Style>
+  <Style id="day8-line">
+    <LineStyle><color>ff888888</color><width>3</width></LineStyle>
+  </Style>
+
+  <!-- ===================================================== -->
+  <!-- DAY 1 — Apr 17 (Fri) · Arrival & Friday Night         -->
+  <!-- ===================================================== -->
+  <Folder>
+    <name>Day 1 — Apr 17 (Fri) · Arrival</name>
+    <description>Two arrival groups: Cathay Pacific (15:10) and Cebu Pacific (18:20). Full group reunites ~20:45 for Dotonbori street food crawl.</description>
+
+    <Placemark>
+      <name>Kansai International Airport (KIX)</name>
+      <styleUrl>#day1-pin</styleUrl>
+      <description><![CDATA[
+        <b>Arrival</b><br>
+        Cathay Pacific: Terminal 2 at 15:10<br>
+        Cebu Pacific: Terminal 1 at 18:20<br><br>
+        <b>To-do at KIX:</b><br>
+        • Buy IC card (ICOCA) at station<br>
+        • Purchase Nankai Rapi:t e-ticket (¥1,520 reserved)<br>
+        • 40-min train to Namba<br><br>
+        <i>Cost: ¥1,520 train + ¥2,000 IC card deposit</i>
+      ]]></description>
+      <Point><coordinates>135.2441,34.4320,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Namba — Hotel Check-In</name>
+      <styleUrl>#day1-pin</styleUrl>
+      <description><![CDATA[
+        <b>16:55–17:30 (CX group) / 20:10–20:45 (5J group)</b><br>
+        Hotel in Namba/Minami area<br><br>
+        Request early check-in if arriving 16:55.<br>
+        Store bags if room not ready.<br><br>
+        <i>Full group reunites ~20:45 — head out together</i>
+      ]]></description>
+      <Point><coordinates>135.5011,34.6687,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Dotonbori — Street Food Crawl</name>
+      <styleUrl>#day1-pin</styleUrl>
+      <description><![CDATA[
+        <b>20:45–22:00</b><br>
+        Osaka's most iconic street food strip.<br><br>
+        <b>Must-try:</b><br>
+        • Takoyaki at Wanaka (octopus balls)<br>
+        • Kushikatsu Daruma (deep-fried skewers)<br>
+        • Glico running man sign — the photo<br>
+        • Walk the canal<br><br>
+        <i>Tip: Most atmospheric at night with neon lights</i><br>
+        <i>Cost: ¥1,500–2,500</i>
+      ]]></description>
+      <Point><coordinates>135.5011,34.6687,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Shinsaibashi Arcade</name>
+      <styleUrl>#day1-pin</styleUrl>
+      <description><![CDATA[
+        <b>17:30–19:00 (CX early arrivers)</b><br>
+        600m covered shopping arcade<br><br>
+        Scout the area before the group arrives.<br>
+        Browse shops, get a feel for the neighbourhood.<br><br>
+        <i>Free to walk through</i>
+      ]]></description>
+      <Point><coordinates>135.5005,34.6741,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Hozenji Yokocho — Drinks</name>
+      <styleUrl>#day1-pin</styleUrl>
+      <description><![CDATA[
+        <b>22:00–23:30</b><br>
+        Magical 80m lantern-lit alley just steps from Dotonbori.<br><br>
+        • ~60 atmospheric bars and izakayas<br>
+        • Visit the moss-covered Fudo Myo-o statue at Hozenji Temple<br>
+        • Beer or sake from ¥500–800<br><br>
+        <i>Perfect intro to Osaka nightlife</i><br>
+        <i>Cost: ¥1,000–2,000</i>
+      ]]></description>
+      <Point><coordinates>135.5034,34.6681,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Day 1 Route</name>
+      <styleUrl>#day1-line</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          135.2441,34.4320,0
+          135.5011,34.6687,0
+          135.5005,34.6741,0
+          135.5011,34.6687,0
+          135.5034,34.6681,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+
+  <!-- ===================================================== -->
+  <!-- DAY 2 — Apr 18 (Sat) · Classic Osaka + Saturday Night -->
+  <!-- ===================================================== -->
+  <Folder>
+    <name>Day 2 — Apr 18 (Sat) · Classic Osaka</name>
+    <description>Castle, markets, retro Shinsekai, and the biggest night out of the trip. Budget: ¥14,000–22,000.</description>
+
+    <Placemark>
+      <name>Osaka Castle Park &amp; Tower</name>
+      <styleUrl>#day2-pin</styleUrl>
+      <description><![CDATA[
+        <b>09:30–12:00</b><br>
+        One of Japan's most famous castles.<br><br>
+        • Entry: ¥1,200 (tower)<br>
+        • Check yaezakura (late-blooming cherry) near Tamatsukuri Gate (SW)<br>
+        • These double cherry blossoms bloom mid-to-late April — perfect timing<br>
+        • Allow 2.5 hours to explore the park and tower<br><br>
+        <b>Getting here:</b> Namba → Temmabashi (Metro Sakaisuji Line, ¥230, 10 min)<br>
+        <i>Cost: ¥1,200 entry</i>
+      ]]></description>
+      <Point><coordinates>135.5259,34.6873,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Kuromon Ichiba Market — Lunch</name>
+      <styleUrl>#day2-pin</styleUrl>
+      <description><![CDATA[
+        <b>12:00–13:30</b><br>
+        "Osaka's Kitchen" — 170+ stalls of fresh seafood and produce.<br><br>
+        <b>Must-try:</b><br>
+        • Grilled scallops<br>
+        • Fresh sashimi<br>
+        • Tamagoyaki (egg omelette)<br>
+        • Wagyu beef skewers<br><br>
+        <b>Getting here:</b> Osaka Castle → Nippombashi (Metro Tanimachi Line, ¥230)<br>
+        <i>Cost: ¥2,000–3,000</i>
+      ]]></description>
+      <Point><coordinates>135.5085,34.6672,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Shinsekai &amp; Tsutenkaku Tower</name>
+      <styleUrl>#day2-pin</styleUrl>
+      <description><![CDATA[
+        <b>13:30–15:00</b><br>
+        Retro old Osaka neighbourhood with 1950s vibes.<br><br>
+        • Tsutenkaku Tower — iconic retro landmark<br>
+        • Kushikatsu Daruma — the original kushikatsu restaurant<br>
+        • Colourful streets, old-school game arcades<br>
+        • Billiken (god of things as they ought to be) statues<br><br>
+        <b>Getting here:</b> Kuromon → Dobutsuen-mae (Metro Sakaisuji Line, ¥230)<br>
+        <i>Cost: Free to explore; kushikatsu ¥1,500–2,000</i>
+      ]]></description>
+      <Point><coordinates>135.5063,34.6515,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Namba Yasaka Shrine</name>
+      <styleUrl>#day2-pin</styleUrl>
+      <description><![CDATA[
+        <b>15:00–15:30</b><br>
+        Hidden gem — giant lion-head stage (butai) used for performances.<br><br>
+        • One of Osaka's most unusual shrines<br>
+        • The giant lion face is a stage for kagura performances<br>
+        • Free entry; 5 min walk from Namba<br><br>
+        <i>Tip: Lesser-known — you'll likely have it mostly to yourself</i><br>
+        <i>Cost: Free</i>
+      ]]></description>
+      <Point><coordinates>135.4968,34.6594,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Shinsaibashi — Afternoon Shopping</name>
+      <styleUrl>#day2-pin</styleUrl>
+      <description><![CDATA[
+        <b>15:30–17:00</b><br>
+        Osaka's main covered shopping arcade (600m long).<br><br>
+        • Mix of high-street and luxury shops<br>
+        • Department stores and brand outlets<br>
+        • Good spot for souvenirs and Japanese fashion<br><br>
+        <i>Then: Rest at hotel 17:00–18:30 — recharge for Saturday night!</i>
+      ]]></description>
+      <Point><coordinates>135.5005,34.6741,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Dotonbori — Dinner at Mizuno</name>
+      <styleUrl>#day2-pin</styleUrl>
+      <description><![CDATA[
+        <b>18:30–20:00</b><br>
+        Mizuno — famous okonomiyaki restaurant.<br><br>
+        • Arrive 18:00 to queue before opening<br>
+        • Famous yamaimoyaki (yam flour okonomiyaki)<br>
+        • Cash only, basic decor, legendary flavour<br><br>
+        <i>Cost: ¥1,650–2,500 per person</i>
+      ]]></description>
+      <Point><coordinates>135.5011,34.6687,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Saturday Night Out — Ura Namba → Tenma → Dotonbori bars</name>
+      <styleUrl>#day2-pin</styleUrl>
+      <description><![CDATA[
+        <b>20:00–23:30+ (The Big Night)</b><br><br>
+        <b>Suggested route:</b><br>
+        1. <b>Ura Namba</b> (20:00) — hidden izakaya district east of Namba Station. Narrow alleys, pick a busy spot. ¥2,000–3,000<br><br>
+        2. <b>Tenma</b> (21:00) — take Metro to Tenma for standing bar crawl:<br>
+        • Sake no Okuda: beer/oden/sashimi from ¥50<br>
+        • Ginza-ya: draft beer ¥330, mingle with locals<br>
+        Cost: ¥1,000–2,000<br><br>
+        3. <b>Bar Freedom</b> (22:30) — Japanese whisky bar, only 10 seats, English menus, walk-in only (opens 19:30). Above Dotonbori, Sennichimae. ¥2,000–4,000<br><br>
+        4. <b>Bible Club Osaka</b> (23:30) — speakeasy cocktails, basement bar off Dotonbori. Leather-bound menu, reimagined classics with Japanese spirits. ¥3,000–5,000<br><br>
+        <i>Saturday is the biggest night — Osaka will be buzzing!</i>
+      ]]></description>
+      <Point><coordinates>135.5011,34.6687,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Day 2 Route</name>
+      <styleUrl>#day2-line</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          135.5011,34.6687,0
+          135.5259,34.6873,0
+          135.5085,34.6672,0
+          135.5063,34.6515,0
+          135.4968,34.6594,0
+          135.5005,34.6741,0
+          135.5011,34.6687,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+
+  <!-- ===================================================== -->
+  <!-- DAY 3 — Apr 19 (Sun) · Aquarium + Nara Day Trip      -->
+  <!-- ===================================================== -->
+  <Folder>
+    <name>Day 3 — Apr 19 (Sun) · Aquarium + Nara</name>
+    <description>Osaka Aquarium first, then JR train to Nara for deer, the Great Buddha, and ancient shrines. Budget: ¥14,700–20,700.</description>
+
+    <Placemark>
+      <name>Osaka Aquarium Kaiyukan</name>
+      <styleUrl>#day3-pin</styleUrl>
+      <description><![CDATA[
+        <b>10:00–11:30</b><br>
+        One of the world's largest aquariums — the centrepiece is a massive whale shark tank.<br><br>
+        • Entry: ¥2,700<br>
+        • Whale shark and giant spider crab are highlights<br>
+        • Opens at 10:00 — arrive on time<br>
+        • Pacific Ocean tank is 8 floors tall<br><br>
+        <b>Getting here:</b> Namba → Osakako (Metro Midosuji → Chuo Line, ¥230, 20 min)<br>
+        <i>Cost: ¥2,700</i>
+      ]]></description>
+      <Point><coordinates>135.4284,34.6548,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Nara Park — Deer Feeding</name>
+      <styleUrl>#day3-pin</styleUrl>
+      <description><![CDATA[
+        <b>13:10–14:30</b><br>
+        Over 1,000 free-roaming deer considered sacred messengers of the gods.<br><br>
+        • Entry: Free<br>
+        • Deer crackers (shika senbei): ¥200<br>
+        • Bow to deer first — they bow back!<br>
+        • Keep bags zipped; deer eat paper and maps<br>
+        • Late-blooming Naranoyaezakura (double cherry) possible mid-late April<br><br>
+        <b>Getting here:</b> JR Namba → JR Nara (JR Yamatoji Rapid, 50 min, ¥570), then walk 20 min through shopping arcade<br>
+        <i>Cost: ¥200 deer crackers</i>
+      ]]></description>
+      <Point><coordinates>135.8401,34.6851,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Todaiji Temple — Great Buddha</name>
+      <styleUrl>#day3-pin</styleUrl>
+      <description><![CDATA[
+        <b>14:30–15:30</b><br>
+        Home to Japan's largest bronze Buddha statue (15m tall), housed in the world's largest wooden building.<br><br>
+        • Entry: ¥600<br>
+        • The Daibutsu (Great Buddha) was cast in 752 AD<br>
+        • Try squeezing through the hole in the pillar — said to grant enlightenment<br>
+        • South Gate (Nandaimon) has massive guardian statues (free to view)<br><br>
+        <i>Cost: ¥600</i>
+      ]]></description>
+      <Point><coordinates>135.8398,34.6888,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Kasuga Taisha Shrine</name>
+      <styleUrl>#day3-pin</styleUrl>
+      <description><![CDATA[
+        <b>16:30–17:15</b><br>
+        UNESCO World Heritage shrine famous for hundreds of stone and bronze lanterns.<br><br>
+        • Inner area: ¥500<br>
+        • Outer grounds: Free<br>
+        • Over 3,000 lanterns line the paths<br>
+        • Founded 768 AD — one of Japan's most sacred shrines<br><br>
+        <i>⏭️ Skippable: Swap for Isui-en Garden (¥900) or Yoshiki-en Garden (free for foreigners)</i><br>
+        <i>Cost: ¥500</i>
+      ]]></description>
+      <Point><coordinates>135.8491,34.6815,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Day 3 Route (Osaka → Nara loop)</name>
+      <styleUrl>#day3-line</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          135.5011,34.6687,0
+          135.4284,34.6548,0
+          135.5011,34.6687,0
+          135.8401,34.6851,0
+          135.8398,34.6888,0
+          135.8491,34.6815,0
+          135.5011,34.6687,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+
+  <!-- ===================================================== -->
+  <!-- DAY 4 — Apr 20 (Mon) · Yoshino Cherry Blossoms       -->
+  <!-- ===================================================== -->
+  <Folder>
+    <name>Day 4 — Apr 20 (Mon) · Yoshino Sakura</name>
+    <description>THE highlight — 30,000 cherry trees across the sacred mountain. Monday = off-peak weekday crowds. Budget: ¥10,000–14,000.</description>
+
+    <Placemark>
+      <name>Yoshino Station</name>
+      <styleUrl>#day4-pin</styleUrl>
+      <description><![CDATA[
+        <b>09:16 — Arrive by Kintetsu Ltd. Express</b><br><br>
+        Starting point for the mountain hike.<br><br>
+        <b>Getting here:</b> Namba → Osaka Abenobashi → Yoshino (Kintetsu Ltd Express, 76 min, ¥1,480)<br>
+        Depart Abenobashi ~08:00 for 09:16 arrival.<br><br>
+        Optional: Take the ropeway up (¥500) to skip the first climb.<br><br>
+        <i>Note: Kintetsu is NOT covered by JR Pass</i><br>
+        <i>Cost: ¥1,480 each way</i>
+      ]]></description>
+      <Point><coordinates>135.8574,34.3659,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Kinpusen-ji Temple &amp; Naka-Senbon</name>
+      <styleUrl>#day4-pin</styleUrl>
+      <description><![CDATA[
+        <b>09:40–11:00 · Middle slopes</b><br>
+        Japan's second-largest wooden structure after Todaiji's Great Hall.<br><br>
+        • Kinpusen-ji: ¥800 to see the hidden Buddha (Zaodo)<br>
+        • Naka-Senbon: mid-mountain area with shops and cherry trees<br>
+        • Kakinoha-zushi (persimmon leaf sushi) available here<br>
+        • Cherry blossom density increases with altitude<br><br>
+        <b>Area sequence (bottom to top):</b><br>
+        Shimo-Senbon → <b>Naka-Senbon</b> → Kami-Senbon → Oku-Senbon<br><br>
+        <i>Cost: Optional ¥800 temple entry</i>
+      ]]></description>
+      <Point><coordinates>135.8594,34.3717,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Hanayagura Viewpoint (Kami-Senbon)</name>
+      <styleUrl>#day4-pin</styleUrl>
+      <description><![CDATA[
+        <b>12:00–13:30 · Upper slopes</b><br>
+        ⭐ BEST PANORAMIC VIEW — thousands of cherry trees stretching across the mountain.<br><br>
+        • Hanayagura: the classic "sea of cherry blossoms" photo spot<br>
+        • Kami-Senbon has the most dramatic scenery<br>
+        • By April 20, lower slopes finishing but Kami-Senbon in full bloom<br>
+        • ~400m elevation from station — wear hiking shoes<br><br>
+        <i>This is THE highlight of the entire trip!</i><br>
+        <i>Cost: Free viewpoint</i>
+      ]]></description>
+      <Point><coordinates>135.8631,34.3762,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Yoshino Mikumari Shrine (Oku-Senbon)</name>
+      <styleUrl>#day4-pin</styleUrl>
+      <description><![CDATA[
+        <b>13:30–15:00 · Innermost / Highest area</b><br>
+        Ancient shrine dedicated to the water-distributing deity — protects the mountain's water sources.<br><br>
+        • Latest-blooming cherry trees in Yoshino<br>
+        • Very few visitors make it this far — peaceful and atmospheric<br>
+        • If tired, turn back at Hanayagura — Oku-Senbon adds 1.5hr each way<br><br>
+        <b>Total elevation gain:</b> ~400m | Total walking: 8–12km<br>
+        <b>Total hike: ~5 hours base-to-summit-to-base</b><br><br>
+        <i>Cost: Free</i>
+      ]]></description>
+      <Point><coordinates>135.8672,34.3810,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Day 4 Route (Yoshino Mountain)</name>
+      <styleUrl>#day4-line</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          135.8574,34.3659,0
+          135.8594,34.3717,0
+          135.8631,34.3762,0
+          135.8672,34.3810,0
+          135.8631,34.3762,0
+          135.8594,34.3717,0
+          135.8574,34.3659,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+
+  <!-- ===================================================== -->
+  <!-- DAY 5 — Apr 21 (Tue) · Kyoto Day 1                   -->
+  <!-- ===================================================== -->
+  <Folder>
+    <name>Day 5 — Apr 21 (Tue) · Kyoto Day 1</name>
+    <description>Fushimi Inari torii gates, Fushimi sake district, Kiyomizu-dera, Gion, Pontocho evening. Overnight in Kyoto. Budget: ¥14,000–22,000.</description>
+
+    <Placemark>
+      <name>Fushimi Inari Shrine</name>
+      <styleUrl>#day5-pin</styleUrl>
+      <description><![CDATA[
+        <b>08:45–10:45</b><br>
+        Over 10,000 vermillion torii gates winding up a forested mountain — one of Japan's most iconic sights.<br><br>
+        • Entry: Free<br>
+        • Arrive before 9:00 to beat tour bus crowds<br>
+        • Full summit hike: 2–3 hours (233m elevation)<br>
+        • Hike partway through gates to the Yotsutsuji intersection for views<br>
+        • Store luggage in coin locker at Fushimi-Inari Station (¥400–700)<br><br>
+        <b>Getting here:</b> Namba → Fushimi-Inari Station (JR Yamatoji → JR Nara Line, 45 min, ¥640)<br>
+        <i>Cost: Free</i>
+      ]]></description>
+      <Point><coordinates>135.7727,34.9671,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Gekkeikan Okura Museum — Sake District</name>
+      <styleUrl>#day5-pin</styleUrl>
+      <description><![CDATA[
+        <b>11:00–12:30</b><br>
+        Fushimi is Kyoto's sake-brewing district — ~40 breweries along a willow-lined canal.<br><br>
+        • Gekkeikan Okura Museum: ¥300–500 entry<br>
+        • 1909 brewery converted to museum with 400+ sake-making tools<br>
+        • Tasting of 3 types of sake + plum wine included with entry<br>
+        • Beautiful canal with weeping willows and white-walled kura (storehouses)<br><br>
+        <b>Getting here:</b> 15-min walk south from Fushimi Inari along the canal<br>
+        <i>Lunch nearby: Torisei — sake brewery restaurant, yakitori/set meal ¥1,500–2,500</i><br>
+        <i>Cost: ¥300–500</i>
+      ]]></description>
+      <Point><coordinates>135.7556,34.9380,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Kiyomizu-dera Temple</name>
+      <styleUrl>#day5-pin</styleUrl>
+      <description><![CDATA[
+        <b>14:45–16:15</b><br>
+        UNESCO World Heritage temple perched on a hillside with a famous wooden stage jutting over the valley.<br><br>
+        • Entry: ¥400<br>
+        • The "stage" (butai) is built without a single nail<br>
+        • Panoramic views over Kyoto<br>
+        • Otowa Waterfall — three streams for love, longevity, success (pick two only!)<br>
+        • Walk down through Sannen-zaka and Ninnen-zaka (stone-paved traditional streets)<br><br>
+        <b>Getting here:</b> Keihan Line to Gion-Shijo, then 20-min uphill walk<br>
+        <i>Cost: ¥400</i>
+      ]]></description>
+      <Point><coordinates>135.7850,34.9948,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Gion — Hanamikoji Street</name>
+      <styleUrl>#day5-pin</styleUrl>
+      <description><![CDATA[
+        <b>17:30–19:00</b><br>
+        Kyoto's most famous geisha district — traditional machiya townhouses, ochaya teahouses.<br><br>
+        • Best time for geisha spotting: 17:00–19:00 on Hanamikoji Street<br>
+        • Stone-paved streets with preserved Edo-period architecture<br>
+        • Minami-za Kabuki theatre nearby<br>
+        • Don't block geiko/maiko or take photos without permission<br><br>
+        <i>Free to walk through</i>
+      ]]></description>
+      <Point><coordinates>135.7780,35.0036,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Pontocho Alley — Dinner &amp; Drinks</name>
+      <styleUrl>#day5-pin</styleUrl>
+      <description><![CDATA[
+        <b>19:00–22:30</b><br>
+        Kyoto's narrow dining alley running parallel to the Kamo River — one of the most atmospheric streets in Japan.<br><br>
+        <b>Dinner (19:00):</b><br>
+        • Gion Tanto (yakitori) or Omen (udon noodles)<br>
+        • Cost: ¥2,500–4,000<br><br>
+        <b>Drinks (20:30 onwards):</b><br>
+        • BAR Atlantis — only bar in Pontocho with outside seating; "Kamogawa Lemon" (house original). ¥2,000–3,500<br>
+        • L'Escamoteur — cocktails by an illusionist-bartender; theatrical experience. ¥2,500–4,000<br>
+        • The Book Store (Kiyamachi) — yellow door speakeasy; '90s hip-hop + Prohibition aesthetic. ¥2,500–4,000<br><br>
+        <i>Kyoto nightlife is more refined than Osaka — savour the atmosphere</i>
+      ]]></description>
+      <Point><coordinates>135.7695,35.0074,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Day 5 Route (Osaka → Kyoto)</name>
+      <styleUrl>#day5-line</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          135.5011,34.6687,0
+          135.7727,34.9671,0
+          135.7556,34.9380,0
+          135.7850,34.9948,0
+          135.7780,35.0036,0
+          135.7695,35.0074,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+
+  <!-- ===================================================== -->
+  <!-- DAY 6 — Apr 22 (Wed) · Kyoto Day 2 + Uji Matcha     -->
+  <!-- ===================================================== -->
+  <Folder>
+    <name>Day 6 — Apr 22 (Wed) · Arashiyama + Uji</name>
+    <description>Bamboo grove at dawn, Golden Pavilion, matcha-making in Uji, back to Osaka. Budget: ¥13,000–18,000.</description>
+
+    <Placemark>
+      <name>Arashiyama Bamboo Grove</name>
+      <styleUrl>#day6-pin</styleUrl>
+      <description><![CDATA[
+        <b>08:15–09:15</b><br>
+        One of Japan's most photographed natural wonders — towering bamboo stalks filtering morning light.<br><br>
+        • Entry: Free<br>
+        • ⚡ Arrive by 8:30 AM to beat tour bus crowds<br>
+        • Path is 500m long — walk through to Okochi Sanso Villa<br>
+        • Best light: early morning (shafts of light through bamboo)<br>
+        • Rickshaw rides available: ¥4,000–13,000<br><br>
+        <b>Getting here:</b> Gion hotel → Arashiyama (Keihan + JR Sagano Line, 45 min, ¥400–500)<br>
+        <i>Cost: Free</i>
+      ]]></description>
+      <Point><coordinates>135.6728,35.0163,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Tenryu-ji Temple &amp; Gardens</name>
+      <styleUrl>#day6-pin</styleUrl>
+      <description><![CDATA[
+        <b>09:15–10:30</b><br>
+        UNESCO World Heritage Zen temple with a stunning garden designed in 1339.<br><br>
+        • Garden entry: ¥500 | Temple buildings: ¥900<br>
+        • Sogen Pond garden has Arashiyama mountain as "borrowed scenery"<br>
+        • Shigetsu restaurant: shojin ryori (Buddhist vegetarian cuisine) ¥1,500–3,300<br><br>
+        <i>⏭️ Skippable: Swap for Monkey Park Iwatayama (¥600) or Hozugawa river boat ride (¥4,100)</i><br>
+        <i>Cost: ¥500–900</i>
+      ]]></description>
+      <Point><coordinates>135.6750,35.0150,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Kinkakuji — Golden Pavilion</name>
+      <styleUrl>#day6-pin</styleUrl>
+      <description><![CDATA[
+        <b>13:00–14:00</b><br>
+        Kyoto's most iconic sight — a Zen temple covered in gold leaf, perfectly reflected in the surrounding pond.<br><br>
+        • Entry: ¥500<br>
+        • Originally built 1397, rebuilt 1955 after arson<br>
+        • Top two floors are covered in pure gold leaf<br>
+        • The garden walk is compact — 1 hour is enough<br>
+        • Best photos from the main viewpoint pond<br><br>
+        <b>Getting here:</b> Arashiyama → Kinkakuji (Bus #93, 40 min, ¥460)<br>
+        <i>Cost: ¥500</i>
+      ]]></description>
+      <Point><coordinates>135.7292,35.0394,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Fukujuen Uji Kobo — Matcha Experience</name>
+      <styleUrl>#day6-pin</styleUrl>
+      <description><![CDATA[
+        <b>15:00–16:30</b><br>
+        ⭐ Book in advance — grind matcha with a traditional stone mill, then whisk and drink your creation.<br><br>
+        • Cost: ¥1,650 (grinding experience)<br>
+        • Fukujuen is one of Japan's most respected tea companies (since 1790)<br>
+        • Experience includes: grinding → whisking → drinking your own matcha<br>
+        • Browse premium loose-leaf matcha to buy as souvenirs<br><br>
+        <b>Getting here:</b> Kyoto Station → Uji (JR Nara Line rapid, 20 min, ¥240)<br>
+        <i>📌 BOOK AHEAD online or by phone</i><br>
+        <i>Cost: ¥1,650</i>
+      ]]></description>
+      <Point><coordinates>135.8032,34.8856,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Byodo-in Temple — Uji</name>
+      <styleUrl>#day6-pin</styleUrl>
+      <description><![CDATA[
+        <b>16:30–17:15</b><br>
+        UNESCO World Heritage temple — the image on Japan's 10-yen coin.<br><br>
+        • Entry: ¥600 (garden) + ¥300 (Phoenix Hall)<br>
+        • Phoenix Hall (Ho-odo): built 1053, virtually unchanged since<br>
+        • Beautiful pond reflection of the temple<br>
+        • Uji River nearby for a relaxing stroll<br><br>
+        <b>Uji is Japan's matcha capital</b> — save time to browse tea shops<br>
+        Matcha soft serve, matcha soba, matcha KitKats...<br><br>
+        <i>Cost: ¥600</i>
+      ]]></description>
+      <Point><coordinates>135.8063,34.8884,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Day 6 Route (Kyoto → Arashiyama → Kinkakuji → Uji → Osaka)</name>
+      <styleUrl>#day6-line</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          135.7695,35.0074,0
+          135.6728,35.0163,0
+          135.6750,35.0150,0
+          135.7292,35.0394,0
+          135.8032,34.8856,0
+          135.8063,34.8884,0
+          135.5011,34.6687,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+
+  <!-- ===================================================== -->
+  <!-- DAY 7 — Apr 23 (Thu) · Kobe + Group Split            -->
+  <!-- ===================================================== -->
+  <Folder>
+    <name>Day 7 — Apr 23 (Thu) · Kobe + Group Split</name>
+    <description>Kobe Chinatown + Kobe beef lunch (everyone), then Cathay Pacific group flies home while Cebu Pacific group has one final night. Budget: ¥18,000–30,000.</description>
+
+    <Placemark>
+      <name>Kobe Nankinmachi (Chinatown)</name>
+      <styleUrl>#day7-pin</styleUrl>
+      <description><![CDATA[
+        <b>09:30–11:00 (Everyone)</b><br>
+        Kobe's vibrant Chinatown — 100+ restaurants and stalls in a festive Chinese-style arcade.<br><br>
+        • Steamed buns (nikuman) — the street food staple<br>
+        • Ramen, baozi, Cantonese roast meats<br>
+        • Colourful Chinese lanterns and gates<br>
+        • Free to enter and explore<br><br>
+        <b>Getting here:</b> Osaka Station → Sannomiya (JR Special Rapid, 20 min, ¥420). Nankinmachi is a 10-min walk from Sannomiya Station.<br>
+        <i>Cost: ¥500–1,000 street food</i>
+      ]]></description>
+      <Point><coordinates>135.1845,34.6882,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Kobe Beef Lunch — Tanryu or Mouriya</name>
+      <styleUrl>#day7-pin</styleUrl>
+      <description><![CDATA[
+        <b>11:00–12:30 (Everyone)</b><br>
+        ⭐ The splurge of the trip — authentic Kobe beef teppanyaki in Kobe itself.<br><br>
+        • <b>Tanryu</b>: Famous Kobe beef teppanyaki, near Sannomiya<br>
+        • <b>Mouriya</b>: Established 1885, one of Kobe's oldest beef restaurants<br>
+        • Lunch sets are 50–70% cheaper than dinner (¥3,000–6,000 vs ¥10,000+)<br>
+        • Teppanyaki: the chef cooks at your table on an iron griddle<br><br>
+        <i>This is the right time and place for Kobe beef!</i><br>
+        <i>Cost: ¥3,000–6,000 per person</i>
+      ]]></description>
+      <Point><coordinates>135.1845,34.6882,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Kobe Harborland &amp; Meriken Park (Cebu Pacific group)</name>
+      <styleUrl>#day7-pin</styleUrl>
+      <description><![CDATA[
+        <b>12:30–14:00 (Cebu Pacific group only)</b><br>
+        Kobe's waterfront — harbour views, iconic landmarks, and one of Japan's most scenic port areas.<br><br>
+        • Kobe Port Tower (red lattice tower) — visible from everywhere<br>
+        • BE KOBE monument — the famous photo spot<br>
+        • Kobe Maritime Museum<br>
+        • Harborland shopping complex nearby<br>
+        • USS Missouri battleship memorial (nearby)<br><br>
+        <i>After this: Transit back to Osaka for final shopping and farewell night</i><br>
+        <i>Cost: Free (harbour walk)</i>
+      ]]></description>
+      <Point><coordinates>135.1862,34.6769,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>KIX — Cathay Pacific Departure (17:35)</name>
+      <styleUrl>#day7-pin</styleUrl>
+      <description><![CDATA[
+        <b>Cathay Pacific group only — departs 17:35</b><br><br>
+        <b>Timeline:</b><br>
+        • 12:30 — Leave Kobe after lunch<br>
+        • 13:00 — Collect luggage from hotel<br>
+        • 14:00 — Nankai Rapi:t from Namba (¥1,520)<br>
+        • 14:40 — Arrive KIX Terminal 2<br>
+        • 14:40–17:35 — Check-in, security, duty-free, last snacks<br>
+        • 17:35 — Depart CX → MNL (arrives 00:15+1)<br><br>
+        <i>Confirm Terminal 2 on KIX website — Cathay Pacific typically uses T2</i>
+      ]]></description>
+      <Point><coordinates>135.2441,34.4320,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Farewell Night — Cebu Pacific Group (Namba)</name>
+      <styleUrl>#day7-pin</styleUrl>
+      <description><![CDATA[
+        <b>18:30–23:30+ (Cebu Pacific group, last night)</b><br><br>
+        <b>Farewell dinner (18:30):</b><br>
+        • Kushikatsu Daruma or Kiji okonomiyaki — Osaka classics revisited. ¥1,500–2,500<br><br>
+        <b>Farewell night route:</b><br>
+        1. <b>Ura Namba bar hop</b> (20:00) — start in the hidden izakaya alleys. ¥2,000–3,000<br><br>
+        2. <b>Bar Nayuta speakeasy</b> (21:30, Amerikamura) — elevator up, follow handwritten note, dark alley, kid-size door. Tell bartender preferences, bespoke cocktails. ¥3,000–5,000<br><br>
+        3. <b>Bar Freedom</b> (23:00) — 10-seat Japanese whisky bar above Dotonbori. ¥2,000–4,000<br><br>
+        <i>🎉 Last night — you've earned it. But set an alarm — you have a flight tomorrow!</i>
+      ]]></description>
+      <Point><coordinates>135.5011,34.6687,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Day 7 Route</name>
+      <styleUrl>#day7-line</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          135.5011,34.6687,0
+          135.1845,34.6882,0
+          135.1862,34.6769,0
+          135.2441,34.4320,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+
+  <!-- ===================================================== -->
+  <!-- DAY 8 — Apr 24 (Fri) · Departure (Cebu Pacific only) -->
+  <!-- ===================================================== -->
+  <Folder>
+    <name>Day 8 — Apr 24 (Fri) · Departure (5J group)</name>
+    <description>Cebu Pacific group only. Morning shrine visit, final Namba shopping, then Nankai Rapi:t to KIX for 19:35 flight. Budget: ¥4,500–6,500.</description>
+
+    <Placemark>
+      <name>Sumiyoshi Taisha Shrine</name>
+      <styleUrl>#day8-pin</styleUrl>
+      <description><![CDATA[
+        <b>09:30–11:00</b><br>
+        One of Japan's oldest and most important Shinto shrines — the head shrine of 2,300 Sumiyoshi shrines nationwide.<br><br>
+        • Entry: Free<br>
+        • Founded: ~211 AD (pre-Buddhism era)<br>
+        • The arched stone bridge (Taiko-bashi) is iconic<br>
+        • Unique "Sumiyoshi-zukuri" architectural style<br>
+        • Peaceful morning visit before airport rush<br><br>
+        <b>Getting here:</b> Namba → Sumiyoshi Taisha (Nankai Main Line, 15 min, ¥220)<br>
+        <i>⏭️ Skippable: Swap for Kuromon Market morning, Namba Parks, or extra shopping time</i><br>
+        <i>Cost: Free</i>
+      ]]></description>
+      <Point><coordinates>135.4928,34.6125,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Namba — Final Shopping &amp; Lunch</name>
+      <styleUrl>#day8-pin</styleUrl>
+      <description><![CDATA[
+        <b>11:30–13:30</b><br>
+        Last chance for souvenirs and a final Osaka meal.<br><br>
+        <b>Shopping priorities:</b><br>
+        • KitKat matcha (Shinsaibashi / Don Quijote)<br>
+        • Uji matcha powder (if you didn't buy enough in Day 6)<br>
+        • Osaka snacks: takoyaki crackers, pocky, Glico sweets<br>
+        • Japanese cosmetics and skincare<br>
+        • Anime/manga goods at Nipponbashi Den Den Town<br><br>
+        <b>Lunch:</b> Ichiran or Ippudo ramen (¥1,000–1,500)<br><br>
+        <i>Tip: Don't buy liquids over 100ml if cabin bag only</i>
+      ]]></description>
+      <Point><coordinates>135.5011,34.6687,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>KIX — Cebu Pacific Departure (19:35)</name>
+      <styleUrl>#day8-pin</styleUrl>
+      <description><![CDATA[
+        <b>Cebu Pacific 5J 827 → MNL</b><br><br>
+        <b>Timeline:</b><br>
+        • 13:30 — Collect luggage, final pack check<br>
+        • 14:30 — Nankai Rapi:t from Namba (¥1,520)<br>
+        • 15:10 — Arrive KIX Terminal 1<br>
+        • 16:35 — Check-in opens (3 hours before departure)<br>
+        • 17:00 — Be at KIX (2.5 hours before) — HARD DEADLINE<br>
+        • 15:10–19:35 — Check-in, security, duty-free shopping inside KIX<br>
+        • 19:35 — Depart KIX → MNL<br><br>
+        <b>⚠️ Baggage:</b> 7kg cabin bag strictly enforced by Cebu Pacific — weigh at hotel!<br><br>
+        <b>IC card:</b> Keep for future Japan trips, or get ¥500 deposit refunded at station.<br><br>
+        <i>Terminal 1 for Cebu Pacific (international)</i>
+      ]]></description>
+      <Point><coordinates>135.2441,34.4320,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Day 8 Route</name>
+      <styleUrl>#day8-line</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          135.5011,34.6687,0
+          135.4928,34.6125,0
+          135.5011,34.6687,0
+          135.2441,34.4320,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+
+</Document>
+</kml>
