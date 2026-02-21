@@ -6,24 +6,13 @@
 
 ## Schedule
 
-| Time | Activity | Location | Duration | Notes |
-|------|----------|----------|----------|-------|
-| {{TIME}} | {{ACTIVITY}} | {{LOCATION}} | {{DURATION}} | {{NOTES}} |
-
-## Meals
-
-| Meal | Restaurant/Plan | Cuisine | Est. Cost |
-|------|----------------|---------|-----------|
-| Breakfast | | | |
-| Lunch | | | |
-| Dinner | | | |
-
-## Transport
-
-| From | To | Method | Duration | Cost |
-|------|------|--------|----------|------|
-| | | | | |
+| Time | Type | Activity | Location | Est. Cost | Notes |
+|------|------|----------|----------|-----------|-------|
+| {{TIME}} | {{TYPE}} | {{ACTIVITY}} | {{LOCATION}} | {{COST}} | {{NOTES}} |
 
 ## Notes
 
-_Day-specific notes, tips, or backup plans._
+- **Weather backup**:
+- **Book ahead**:
+- **Tips**:
+- **Estimated Day Cost**: ¥
