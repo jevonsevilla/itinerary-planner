@@ -6,7 +6,7 @@
 
 ## Theme
 
-_Kobe chinatown and beef lunch for everyone, then the group splits: one flies, one parties_
+_Kobe chinatown and beef lunch for everyone, then the group splits: one flies, one winds down quietly_
 
 ## Schedule
 
@@ -25,12 +25,10 @@ _Kobe chinatown and beef lunch for everyone, then the group splits: one flies, o
 | 14:00 | Transit | JR + Metro back to Osaka | Sannomiya → Namba | ¥420+ | 5J group; 30 min |
 | 14:40 | Flight | Check-in, security, duty-free | KIX Terminal 2 | — | CX group; ~3 hr before 17:35 flight; check-in opens ~14:35 |
 | 14:30 | Activity | Last shopping — Shinsaibashi / Don Quijote | Shinsaibashi | — | 5J group; final souvenirs; tax-free for tourists |
-| 16:30 | Rest | Freshen up for farewell night | Hotel | — | 5J group; shower, recharge |
+| 16:30 | Rest | Freshen up | Hotel | — | 5J group; shower, decompress — the big farewell was last night |
 | 17:35 | Flight | Depart KIX | KIX Terminal 2 | — | CX group; Cathay Pacific CX → MNL, arrives 00:15+1 |
-| 18:30 | Meal | Farewell dinner — Kushikatsu Daruma or Kiji | Namba area | ¥1,500–2,500 | 5J group. **Kushikatsu Daruma** (¥1,500–2,500): Osaka's defining dish — breaded, deep-fried skewers dipped in communal sauce; fun, loud, and quintessential Osaka. Best for a lively final group meal.<br>**Alt — Kiji** (¥1,500–2,500): Osaka okonomiyaki at its finest; fluffy, generous savory pancakes — best if the group wants to end the trip with Osaka's most beloved comfort food. |
-| 20:00 | Nightlife | Ura Namba bar hop | Ura Namba | ¥2,000–3,000 | 5J group; hidden dining/bar district — narrow alleys east of Namba |
-| 21:30 | Nightlife | Bar Nayuta (bespoke speakeasy) | Amerikamura | ¥2,000–6,000 | 5J group. **Bar Nayuta** (¥3,000–5,000): bespoke cocktails with no menu — tell the bartender your preferences; hidden entrance (elevator → handwritten note → dark alley → tiny door). The adventure of finding it IS part of the experience.<br>**Alt — Hana Sake Bar** (¥2,000–4,000): English-friendly, rare sake from small breweries — best if some of the group prefers sake to cocktails or if navigating Nayuta feels like too much at this hour.<br>**Alt — One Shot Bar Keith** (¥3,000–6,000): 400+ Japanese whisky expressions, founded 1996, knowledgeable bartender — best for serious whisky enthusiasts who want a focused high-end final drink. |
-| 23:00 | Nightlife | Bar Freedom (whisky nightcap) | Sennichimae | ¥2,000–4,000 | 5J group; 10 seats, English menu; walk-in only. **Treat this as last stop — flight is tomorrow. Leave by 23:30 at the latest.** |
+| 19:00 | Meal | Quiet group dinner — just the Cebu Pacific crew | Namba area | ¥1,500–2,500 | 5J group. No big occasion tonight — just a relaxed last meal together. **Kushikatsu Daruma** (¥1,500–2,500): Osaka's most iconic bite, fun and casual.<br>**Alt — Kiji** (¥1,500–2,500): fluffy okonomiyaki — Osaka comfort food at its best, no rush. |
+| 20:30 | Nightlife | Bar Freedom (whisky nightcap) | Sennichimae | ¥2,000–4,000 | 5J group. 10 seats, intimate, English menu — the perfect small-group wind-down. **Aim to leave by 22:00; flight is tomorrow.**<br>**Alt — Hana Sake Bar** (¥2,000–4,000): English-friendly rare sake from small breweries — quieter and just as special.<br>**Alt — One Shot Bar Keith** (¥3,000–6,000): 400+ Japanese whisky expressions, founded 1996 — best for anyone who wants one last serious pour. |
 
 ## Notes
 
@@ -39,9 +37,7 @@ _Kobe chinatown and beef lunch for everyone, then the group splits: one flies, o
 - **Tips**:
   - **Kobe beef tip**: Lunch sets (teppanyaki) are dramatically cheaper than dinner — ¥3,000–6,000 vs ¥10,000+
   - Nankinmachi street food is cheap and delicious — steamed buns, ramen, tapioca
-  - Bar Nayuta: finding it IS the experience — elevator up, follow handwritten note, dark alley, kid-size door
   - Don Quijote in Dotonbori: everything discounted, tax-free for tourists
-  - Last train ~midnight from most areas; hotel is walking distance from Namba nightlife
-  - 5J group: set an alarm — you have a flight tomorrow!
-  - Also consider: Bar Nayuta alt → Hana Sake Bar (English-friendly, rare sake from small breweries, ¥2,000–4,000) or One Shot Bar Keith (400+ Japanese whisky expressions, ¥3,000–6,000)
+  - Hotel is walking distance from Namba nightlife
+  - 5J group: tonight is low-key on purpose — set an alarm, flight is tomorrow
 - **Estimated Day Cost**: ¥18,000–30,000 (transport ¥1,630 + Kobe beef lunch ¥3,000–6,000 + other food ¥2,100–3,400 + nightlife ¥8,000–16,000 [5J group])

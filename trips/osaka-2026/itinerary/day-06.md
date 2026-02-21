@@ -24,8 +24,9 @@ _Bamboo grove at dawn, Golden Pavilion, then Japan's matcha capital before retur
 | 17:15 | Activity | Browse Uji tea shops & riverfront | Uji | — | Buy matcha souvenirs; try matcha sweets (¥800–1,500) |
 | 17:45 | Transit | JR Nara Line → Yamatoji to Namba | Uji → Namba | ¥810–1,000 | 60 min |
 | 18:45 | Hotel | Check in to Osaka hotel | Namba | — | Back at base |
-| 19:30 | Meal | Dinner — Tsuruhashi Koreatown yakiniku | Tsuruhashi | ¥2,500–4,000 | Korean BBQ |
-| 21:00 | Nightlife | Nakazakicho evening stroll & bars | Nakazakicho | ¥1,500–2,500 | Retro bohemian district; Taisho-era houses turned into cafes/bars |
+| 19:30 | Meal | **Farewell group dinner** — Tsuruhashi yakiniku | Tsuruhashi | ¥2,500–4,000 | Last dinner together as a full group — everyone around the Korean BBQ grill, beer and soju flowing. Simple, communal, and the right vibe for a sendoff. |
+| 21:00 | Activity | Nakazakicho stroll | Nakazakicho | — | Quick wander through the retro Taisho-era neighbourhood — a nice way to stretch before the farewell drinks |
+| 21:30 | Nightlife | **Farewell drinks — Bar Nayuta** | Amerikamura | ¥3,000–5,000 | Bespoke cocktails with no menu — tell the bartender your preferences; hidden entrance (elevator → handwritten note → dark alley → tiny door). Finding it together is the perfect group memory to end the trip on.<br>**Alt — Ura Namba + Bible Club** (¥2,000–3,000 + ¥3,000–5,000): if Bar Nayuta feels like too much after a long travel day, izakaya crawl then speakeasy is just as celebratory with the full group.<br>**Alt — Craft Beer Base** (¥2,000–3,500): craft beers from Japan and worldwide; buy bottles to bring home as souvenirs. |
 
 ## Notes
 
@@ -33,7 +34,7 @@ _Bamboo grove at dawn, Golden Pavilion, then Japan's matcha capital before retur
 - **Skippable**: Tenryu-ji — swap for Monkey Park Iwatayama (¥600, hike to 170 wild monkeys with panoramic Kyoto views), a Hozugawa River boat ride (¥4,100, book ahead), or a rickshaw ride through the bamboo grove area (¥4,000–13,000).
 - **Cherry blossoms**: Philosopher's Path trees mostly finished. Arashiyama is beautiful regardless of blossoms.
 - **Tips**:
-  - **Arrive Arashiyama by 8:15 AM** to beat tour bus crowds in the bamboo grove
+  - **Arrive Arashiyama by 08:45** to beat tour bus crowds in the bamboo grove (Wednesday is much lighter than weekends)
   - Kinkakuji is beautiful but compact — 1 hour is enough
   - Fukujuen Uji Kobo: the matcha-grinding experience with a traditional stone mill is the classic (¥1,650)
   - **Uji is the matcha capital of Japan** — bring extra yen for high-quality matcha souvenirs
