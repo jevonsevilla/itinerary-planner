@@ -12,12 +12,10 @@ _One last shrine, final shopping, then home_
 
 | Time | Type | Activity | Location | Est. Cost | Notes |
 |------|------|----------|----------|-----------|-------|
-| 08:30 | Meal | Breakfast — café or convenience store | Hotel area | ¥400–1,200 | **Café** (¥800–1,200): a proper sit-down last breakfast in Osaka — best if you want to mark the morning and aren't in a rush (airport train isn't until 14:30).<br>**Alt — convenience store** (¥400–600): fast and cheap; best if you want maximum time for Sumiyoshi or final shopping. Check out; store luggage at hotel if needed. |
-| 09:30 | Transit | Nankai Main Line to Sumiyoshi Taisha | Namba → Sumiyoshi Taisha | ¥220 | 15 min |
-| 09:45 | Activity | Sumiyoshi Taisha Shrine (or alternative) | Sumiyoshi Taisha | — | **Sumiyoshi Taisha** (free): one of Japan's oldest shrines, predating Buddhism — famous arched bridge and a distinct architectural style unlike anything else on the trip; a quiet, historic send-off.<br>**Alt — Kuromon Ichiba Market** (free entry, food ¥1,000–2,000): morning is peak time; best if you missed it Day 2 or want food souvenirs to bring home.<br>**Alt — Namba Parks rooftop garden** (free): unexpected rooftop park above a shopping mall, relaxed and zero-transit — best if the group just wants a slow final morning near the hotel. |
-| 11:15 | Transit | Nankai Main Line back to Namba | Sumiyoshi Taisha → Namba | ¥220 | 15 min |
-| 11:30 | Activity | Final shopping | Namba/Shinsaibashi | — | Last souvenirs and gifts |
-| 12:30 | Meal | Lunch — Ichiran or Ippudo ramen | Namba | ¥1,000–1,500 | Quick ramen |
+| 09:30 | Meal | Breakfast — café or convenience store | Hotel area | ¥400–1,200 | **Café** (¥800–1,200): a proper slow last breakfast — you've earned it, and the airport train isn't until 14:30.<br>**Alt — convenience store** (¥400–600): fast and cheap if you want more time for shopping. Check out; store luggage at hotel if needed. |
+| 10:30 | Activity | Sumiyoshi Taisha Shrine (or alternative) | Sumiyoshi Taisha | — | **Sumiyoshi Taisha** (free): 15 min on Nankai Main Line (¥220) — one of Japan's oldest shrines, quiet and historic, a good send-off. Skip if the group is moving slowly and just wants to shop.<br>**Alt — Kuromon Ichiba Market** (free entry, food ¥1,000–2,000): morning is peak time; best if you missed it Day 2 or want food souvenirs.<br>**Alt — stay near Namba** (free): Namba Parks rooftop garden, Dotonbori final stroll, or just extra time in Don Quijote — best if no one wants transit on departure day. |
+| 11:45 | Activity | Final shopping | Namba/Shinsaibashi | — | Last souvenirs and gifts; Don Quijote tax-free |
+| 12:45 | Meal | Lunch — Ichiran or Ippudo ramen | Namba | ¥1,000–1,500 | Quick ramen |
 | 13:30 | Activity | Collect luggage, final pack check | Hotel area | — | Weigh bags; don't buy liquids over 100ml if cabin bag only |
 | 14:15 | Transit | Walk to Namba Station | Namba | — | Allow extra time with luggage |
 | 14:30 | Transit | Nankai Rapi:t to KIX | Namba Station → KIX | ¥1,520 | Arrives KIX ~15:10 |
