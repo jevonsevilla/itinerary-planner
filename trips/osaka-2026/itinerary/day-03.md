@@ -20,16 +20,14 @@ _Aquarium morning, Nara highlights afternoon, sake education evening_
 | 15:30 | Activity | Todaiji Temple & Great Buddha | Todaiji | ¥600 | 15m-tall Buddha; closes 17:30 |
 | 16:30 | Meal | Late lunch / snack — street stalls near Todaiji | Nara Park area | ¥600–1,500 | Plenty of vendors open all afternoon; pick up something between sights |
 | 17:00 | Activity | Kasuga Taisha Shrine (or alternative — skip if tired) | Kasuga Taisha | ¥500 | **Kasuga Taisha** (¥500 inner area): stone lantern-lined forest path — choose this if you still have energy. Otherwise skip; deer and Todaiji are the Nara essentials.<br>**Alt — Isui-en Garden** (¥900): one of Japan's finest traditional gardens with layered ponds and borrowed scenery from Todaiji.<br>**Alt — Yoshiki-en Garden** (¥250, free for foreigners): smaller, mossier, nearly always quiet — easy to pair with Isui-en next door.<br>**Alt — More time in Nara Park** (free): just keep wandering with the deer. |
-| 17:45 | Transit | JR back to Osaka | JR Nara → JR Namba | ¥570 | JR Yamatoji Rapid, 50 min |
-| 18:35 | Rest | Freshen up | Hotel | — | Quick change before dinner |
-| 19:00 | Meal | Dinner — Torame Yokocho food alley | Namba area | ¥2,000–3,000 | 9 stalls — teppanyaki, sushi, kushikatsu |
-| 20:30 | Nightlife | Sake tasting — Asano Nihonshuten | Near JR Osaka Station | ¥1,500–3,000 | **Asano Nihonshuten** (¥1,500–3,000): kikizake set (3 curated pours ¥800), 100+ varieties on shelf, open till 23:00 — best for a proper sake education on Sunday (Shimada Shoten is closed today).<br>**Alt — Beer Belly** (¥2,000–3,500): Minoh Beer's flagship Osaka taproom, 15 rotating taps and great mashed potatoes — best if some of the group wants something casual and non-sake. |
-| 22:00 | Nightlife | Craft beer — Beer Belly (Minoh Beer) | Osaka | ¥2,000–3,500 | 15 types of Minoh Beer on tap; famous mashed potatoes |
+| 17:30 | Meal | Dinner — Nara central area | Near JR Nara Station | ¥1,500–2,500 | Eat before Lamp Bar — lighter options along the shopping arcade between JR Nara and the park work well (ramen, set meals). **Alt — head back to Osaka early** (¥570 JR, 17:45 departure): eat at Torame Yokocho food alley in Namba (¥2,000–3,000) — choose this if the group is too tired for Lamp Bar. |
+| 19:30 | Nightlife | Lamp Bar (#46 Asia's 50 Best Bars 2025) | Nara City | ¥4,000–8,000 | World-class cocktail bar by Michito Kaneko (2015 World Class Bartending champion). Three antique-furnished rooms with different motifs; no written menu — bartenders tailor drinks to you using local Nara ingredients. **Reserve ahead — essential.**<br>**Alt — skip and head back early**: if the day has been long, leave Nara at 17:45 and do Asano Nihonshuten (sake, ¥1,500–3,000) or Beer Belly (craft beer, ¥2,000–3,500) in Osaka instead. |
+| 21:30 | Transit | JR back to Osaka | JR Nara → JR Namba | ¥570 | JR Yamatoji Rapid, 50 min. Last trains run past midnight — no rush. |
 
 ## Notes
 
-- **Book ahead**: Nothing required
-- **Closed Sunday**: Shimada Shoten sake cellar is **closed Sundays** — go to Asano Nihonshuten (open till 23:00) or Nihonshu Unagidani in Shinsaibashi instead
+- **Book ahead**: **Lamp Bar — reserve ahead, essential** (email or via website; a bar of this calibre fills up). Nothing else required.
+- **Closed Sunday**: Shimada Shoten sake cellar is **closed Sundays** — if skipping Lamp Bar and doing Osaka nightlife instead, go to Asano Nihonshuten (open till 23:00) or Nihonshu Unagidani in Shinsaibashi
 - **Skippable**: Kasuga Taisha — swap for Isui-en Garden (¥900, one of the most beautiful traditional Japanese gardens in Nara) or Yoshiki-en Garden (¥250, free for foreigners — quieter and mossy)
 - **Cherry blossoms**: Nara has late-blooming "Naranoyaezakura" (double cherry variety) that blooms late April — you may spot some in the park
 - **Tips**:
@@ -38,4 +36,4 @@ _Aquarium morning, Nara highlights afternoon, sake education evening_
   - Keep bags zipped; deer eat paper and maps
   - Nara afternoon is shorter today (~3.5 hrs) but covers all the main highlights
   - Shimada Shoten's underground cellar is a unique experience on other days (enter through sake shop, climb down a ladder to rare sake from 250+ breweries)
-- **Estimated Day Cost**: ¥13,000–19,000 (transport ¥1,600 + aquarium ¥2,700 + Nara attractions ¥1,300–1,700 + food ¥3,900–6,200 + drinks ¥3,500–6,500)
+- **Estimated Day Cost**: ¥14,000–23,000 (transport ¥1,600 + aquarium ¥2,700 + Nara attractions ¥1,300–1,700 + food ¥3,400–5,200 + Lamp Bar ¥4,000–8,000 [skip for lower end])

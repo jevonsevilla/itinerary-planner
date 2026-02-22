@@ -46,9 +46,9 @@ _One last shrine, final shopping, then home_
 | 🚇 Transport | ¥13,000–16,000 |
 | 🎟️ Attractions | ¥10,000–13,000 |
 | 🍜 Food & meals | ¥32,000–48,000 |
-| 🌙 Nightlife & drinks | ¥25,000–45,000 |
+| 🌙 Nightlife & drinks | ¥28,000–52,000 |
 | 🛍️ Shopping/misc | variable |
-| **Subtotal** | **~¥80,000–122,000** |
+| **Subtotal** | **~¥83,000–130,000** |
 
 **Accommodation (7 nights)**
 
@@ -58,13 +58,14 @@ _One last shrine, final shopping, then home_
 | Kyoto | 1 night at ¥8,000–15,000 = ¥8,000–15,000 |
 | **Total** | **¥38,000–63,000** |
 
-**Grand Total (excluding flights): ¥118,000–185,000 (~$770–1,200 USD)**
+**Grand Total (excluding flights): ¥121,000–193,000 (~$790–1,260 USD)**
 
 **Trip Highlights**
 - 🌸 Mount Yoshino late cherry blossoms (Day 4)
 - 🍶 Fushimi sake brewery district (Day 5)
 - 🍵 Uji matcha-making experience (Day 6)
-- 🥃 Saturday night bar crawl: Tenma standing bars → whisky bar → speakeasy (Day 2)
-- 🥂 Farewell night: Ura Namba → Bar Nayuta speakeasy → whisky nightcap (Day 7)
+- 🎵 Saturday club night: Ura Namba izakayas → Circus Osaka → Bar Nayuta (#100 Asia's 50 Best) (Day 2)
+- 🍸 Lamp Bar, Nara (#46 Asia's 50 Best Bars) — world-class bespoke cocktails in an antique bar (Day 3)
+- 🥂 Farewell night: quiet dinner + Bar Nayuta (#100 Asia's 50 Best) (Day 7)
 - 🌙 Kyoto overnight with Pontocho evening drinking (Day 5)
 - 🥩 Kobe beef lunch (Day 7)
