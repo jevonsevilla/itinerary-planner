@@ -1,42 +1,38 @@
 # Day 5 — 2026-04-21 (Tuesday)
 
-> ⛩️ _Kyoto Day 1 — Fushimi Inari, Fushimi sake district, Higashiyama temples, overnight in Kyoto with Pontocho evening_
+> 🏯 _Classic Osaka — Castle, markets, Shinsekai, and a big Tuesday night out_
 
 ## Theme
 
-_Torii gates and sake breweries in Fushimi, temple streets in Higashiyama, refined Pontocho evening_
+_Classic Osaka sights by day, biggest Osaka night out of the trip after dark_
 
 ## Schedule
 
 | Time | Type | Activity | Location | Est. Cost | Notes |
 |------|------|----------|----------|-----------|-------|
-| 08:00 | Meal | Breakfast — convenience store onigiri + coffee | Namba | ¥500–800 | Pack all belongings; check out of Osaka hotel — late night yesterday, don't rush the alarm |
-| 08:30 | Transit | JR to Kyoto Station, then Inari Station | Namba → Kyoto Stn → Inari | ¥750 | JR Yamatoji to Osaka, then JR Nara Line to Inari — 55 min total |
-| 09:15 | Activity | Store luggage at Kyoto Station coin lockers | Kyoto Station | ¥400–700 | Store bags HERE before doubling back to Inari — avoids the cramped Fushimi-Inari lockers and removes the mid-day retrieval detour |
-| 09:30 | Activity | Fushimi Inari Shrine | Fushimi Inari | — | Free; hike partway through torii gates — 09:30 on a Tuesday is still early enough to beat the worst crowds.<br>**Alt — skip Fushimi Inari if the group can't manage the early start**: go straight to Nishiki Market (opens ~10:00) then Kiyomizu-dera by 11:00 for a gentler Kyoto Day 1. |
-| 11:30 | Transit | Walk to Fushimi sake district | Fushimi-Inari → Fushimi | — | Follow canal south, 15 min |
-| 11:45 | Activity | Gekkeikan Okura Sake Museum + tasting | Fushimi sake district | ¥300–500 | 1909 brewery; 3 types of sake + plum wine tasting included; 400+ sake-making tools |
-| 13:15 | Meal | Lunch — Torisei (sake brewery restaurant) | Fushimi area | ¥1,500–2,500 | Sake-paired yakitori/set meal |
-| 14:15 | Transit | Keihan Line to Gion-Shijo, then collect luggage | Fushimi → Gion-Shijo → Kyoto Stn | ¥270 | 15 min to Gion-Shijo; swing by Kyoto Station to collect bags from locker (~20 min round trip) |
-| 15:00 | Hotel | Check in to Kyoto hotel | Gion/Higashiyama | — | GOZAN, Gion Misen, or similar; drop bags |
-| 15:30 | Activity | Kiyomizu-dera Temple | Kiyomizu-dera | ¥400 | Wooden stage, city views |
-| 17:00 | Activity | Sannen-zaka → Ninnen-zaka → Maruyama Park | Higashiyama | — | Traditional streets, possible late sakura |
-| 18:15 | Activity | Gion district evening walk | Gion | — | Geisha spotting 17:00–19:00 on Hanamikoji Street |
-| 20:00 | Meal | Dinner — Gion Tanto or Omen (Pontocho) | Pontocho | ¥1,500–4,000 | **Gion Tanto** (¥2,500–4,000): yakitori done with Kyoto precision; intimate counter seating and excellent sake pairings.<br>**Alt — Omen** (¥1,500–2,500): thick udon noodles, more casual and filling — best if the group wants comfort food after a full day of walking.<br>**Alt — Nishiki Warai** (¥1,500–2,500): casual Kyoto fare near Nishiki Market if Pontocho feels too formal after a tiring day. |
-| 21:30 | Nightlife | BAR Atlantis — outdoor counter | Pontocho | ¥2,000–3,500 | Only bar on Pontocho with outdoor Kamo River seating; house cocktails in a beautiful setting.<br>**Alt — L'Escamoteur Bar** (¥2,500–4,000): cocktails by an illusionist-bartender — theatrical and memorable. |
-| 22:30 | Nightlife | The Book Store (speakeasy) — optional | Kiyamachi | ¥2,500–4,000 | Yellow door on Kiyamachi; Prohibition-era aesthetic, '90s hip-hop. **Skip this if you're tired — Day 6 starts early for Arashiyama. BAR Atlantis alone is a strong night.** |
-| 23:30 | Transit | Return to Kyoto hotel | Gion area | — | Overnight in Kyoto |
+| 08:30 | Meal | Breakfast — Komeda's Coffee | Namba | ¥600–900 | Coffee & ogura toast set |
+| 09:00 | Transit | Metro to Temmabashi | Namba → Temmabashi | ¥230 | Sakaisuji Line, 10 min |
+| 09:30 | Activity | Osaka Castle Park & Tower | Osaka Castle | ¥1,200 | 2.5 hr; check yaezakura near Tamatsukuri Gate (southwest).<br>**Alt — Castle grounds only** (free): skip the ¥1,200 tower museum and just walk the park — the moat, stone walls and yaezakura are beautiful without paying. Save 1 hour and ¥1,200.<br>**Alt — Shitennoji Temple** (¥500): Osaka's oldest temple (593 AD), south of Namba, quieter and less touristy. |
+| 12:00 | Transit | Metro to Kuromon | Osaka Castle → Nippombashi | ¥230 | Tanimachi Line, 15 min |
+| 12:15 | Meal | Lunch — Kuromon Ichiba Market | Kuromon Market | ¥2,000–3,000 | "Osaka's Kitchen" — grilled scallops, sashimi, tamagoyaki |
+| 13:30 | Transit | Metro to Shinsekai | Kuromon → Dobutsuen-mae | ¥230 | Sakaisuji Line, 10 min |
+| 13:40 | Activity | Shinsekai & Tsutenkaku Tower | Shinsekai | — | Retro Osaka; kushikatsu at Daruma.<br>**Alt — Tennoji Park & Keitakuen Garden** (¥150, free for foreigners): peaceful traditional garden right next to Shinsekai — best if the retro tourist-strip vibe isn't your thing.<br>**Alt — head straight to Shinsaibashi** (free): skip Shinsekai entirely if energy is dipping — the 17:00 rest before the big night is more valuable than a rushed 40-min Shinsekai visit. |
+| 15:00 | Activity | Namba Yasaka Shrine | Near Namba | — | Giant lion-head stage (hidden gem) |
+| 15:30 | Activity | Shopping — Shinsaibashi Arcade | Shinsaibashi | — | 600m covered arcade |
+| 17:00 | Rest | Freshen up | Hotel | — | Recharge for Tuesday night |
+| 18:30 | Meal | Dinner — Mizuno (okonomiyaki) | Dotonbori | ¥1,650–2,500 | Arrive 18:00 to queue; famous yamaimoyaki okonomiyaki |
+| 20:00 | Nightlife | Ura Namba izakaya crawl | Ura Namba | ¥2,000–3,000 | Narrow alleys east of Namba — cold beer and skewers shoulder-to-shoulder with locals.<br>**Alt — Tenma tachinomi** (¥1,000–2,000): Osaka's most local standing-bar street (Sake no Okuda, Ginza-ya); drinks from ¥50–300; requires 1-stop metro to Tenma via JR Loop. |
+| 21:30 | Nightlife | Circus Osaka (club) | Amerikamura | ¥2,000–3,500 | Culture-forward club in Amemura — 10–15 min walk from Ura Namba through Shinsaibashi. Check event schedule and cover charge ahead (varies by night).<br>**Alt — Club Joule** (Nishi-Shinsaibashi, ¥2,000–3,500): larger two-floor venue with rooftop terrace — same area, best for a more polished club atmosphere. |
+| 23:00 | Nightlife | Bar Nayuta (#100 Asia's 50 Best Bars 2025) | Amemura | ¥3,000–5,000 | Whimsical cocktail speakeasy near Triangle Park — look for the hidden door. No written menu; bartenders tailor bespoke drinks to you. Walking distance from Circus.<br>**Alt — stay at Circus**: if the club is still going strong, skip the bar and keep dancing. |
 
 ## Notes
 
-- **Book ahead**: Book your Kyoto hotel for tonight. Gekkeikan museum needs no reservation.
-- **Cherry blossoms**: Most lowland blooms gone, but Maruyama Park may have late-blooming varieties. The walk from Kiyomizu-dera through Higashiyama is beautiful regardless.
+- **Book ahead**: Nothing required — arrive at Mizuno by 18:00 to queue before they open
+- **Cherry blossoms**: Osaka Castle Park has **late-blooming yaezakura** near Tamatsukuri Gate — double cherry blossoms bloom mid-to-late April
 - **Tips**:
-  - **Store luggage at Kyoto Station lockers** (not Fushimi-Inari) — Fushimi-Inari lockers fill fast in cherry blossom season and retrieval mid-day is a detour; Kyoto Station is on the way to everything
-  - **Fushimi sake district is RIGHT NEXT to Fushimi Inari** — perfect combo, don't skip it
-  - Fushimi has ~40 sake breweries along a willow-lined canal — beautiful walking area
-  - Fushimi Inari at 09:30 on a Tuesday is still early enough — don't sacrifice sleep for 08:45
-  - **Skip The Book Store if tired** — Day 6 has an early Arashiyama start; BAR Atlantis is a great endpoint on its own
-  - Gion geisha spotting most likely 17:00–19:00 on Hanamikoji Street
-  - The Book Store: yellow door on Kiyamachi street
-- **Estimated Day Cost**: ¥14,000–22,000 (transport ¥910 + luggage locker ¥500 + attractions ¥700–900 + food ¥4,500–7,300 + drinks ¥5,000–9,000 + Kyoto hotel ¥8,000–15,000)
+  - Circus Osaka: check the event schedule before going — Tuesday cover charge and music genre vary by night
+  - Bar Nayuta: hidden door near Triangle Park in Amemura; #100 on Asia's 50 Best Bars 2025; no menu, just tell the bartender what you like
+  - Tenma tachinomi is the best budget alternative — 1 stop from Osaka Station on JR Loop Line
+  - Pace yourself on drinks — you have more days ahead!
+  - Convenience stores sell strong chuhai (¥150) if you want a cheap pre-game
+- **Estimated Day Cost**: ¥14,000–22,000 (transport ¥700 + attractions ¥1,200 + food ¥4,250–6,400 + nightlife ¥8,000–14,000)

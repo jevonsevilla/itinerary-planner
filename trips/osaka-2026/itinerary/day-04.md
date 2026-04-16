@@ -1,17 +1,21 @@
 # Day 4 — 2026-04-20 (Monday)
 
-> 🌸 _Mount Yoshino Golden Hour — Rest morning, then 30,000 sakura trees at peak light_
+> 🌸 _Kyoto → Osaka + Mount Yoshino — Move to your Osaka base, then 30,000 sakura trees at golden hour_
 
 ## Theme
 
-_Free morning to rest and recharge, then Yoshino in the afternoon for the best light of the trip_
+_Check out of Kyoto, settle into Osaka, then Yoshino for the best light of the trip_
 
 ## Schedule
 
 | Time | Type | Activity | Location | Est. Cost | Notes |
 |------|------|----------|----------|-----------|-------|
-| 09:30 | Meal | Breakfast — proper café sit-down | Namba area | ¥700–1,200 | Take your time — today's afternoon is the main event; fuel up properly before the hike |
-| 11:00 | Activity | Free time — Dotonbori stroll or rest | Namba / hotel | — | Pack hiking snacks and charge your power bank |
+| 08:00 | Meal | Breakfast — convenience store or café | Gion area | ¥500–900 | Quick breakfast — checkout this morning; pack last night |
+| 08:30 | Hotel | Check out of Kyoto hotel | Gion/Higashiyama | — | Bring all luggage |
+| 09:00 | Transit | JR to Osaka (Namba) | Kyoto Station → Namba | ¥570 | JR Kyoto Line to Osaka, then transfer; ~40 min total |
+| 09:45 | Hotel | Check in to Osaka hotel / drop bags | Namba/Minami area | — | Request early check-in or store bags — you'll be out all day |
+| 10:30 | Activity | Free time — grab lunch supplies, charge power bank | Namba / Dotonbori | — | Light snack or early lunch; pack hiking food for Yoshino |
+| 11:30 | Meal | Lunch — ramen or convenience store near hotel | Namba | ¥800–1,500 | Fuel up before the hike |
 | 12:30 | Transit | Metro/walk to Abenobashi | Namba → Abenobashi | ¥0–230 | 15 min walk or Metro |
 | 13:00 | Transit | Kintetsu Limited Express to Yoshino | Abenobashi → Yoshino | ¥1,480 | 76 min; reserved seats recommended — purchase at station or online |
 | 14:16 | Activity | Ropeway up | Yoshino Station | ¥450 | One-way up; saves the steepest section — 3 min ride |
@@ -33,15 +37,15 @@ _Free morning to rest and recharge, then Yoshino in the afternoon for the best l
 ## Notes
 
 - **Book ahead**: Kintetsu Limited Express reserved seats recommended — purchase at station or online.
-- **Cherry blossoms**: **This is THE highlight of the trip!** Yoshino has 30,000 trees blooming base-to-summit. By April 20, lower slopes will be finishing; **Kami-Senbon is the target** — it blooms mid-to-late April and Hanayagura Viewpoint there gives the best panoramic view. Oku-Senbon (uppermost zone) blooms slightly later and is kept as a contingency — see Alternatives above.
-- **Golden hour**: Sunset is ~18:50 on April 20 at Yoshino. Be at Hanayagura Viewpoint by 17:45 — the amber-pink light across the blooms is stunning and lasts a full hour. This is the visual peak of the whole trip; don't rush it.
+- **Luggage logistics**: Check out of Kyoto hotel and transit to Osaka first. Most hotels allow early bag drop even before your room is ready — drop and go.
+- **Cherry blossoms**: **This is THE highlight of the trip!** Yoshino has 30,000 trees blooming base-to-summit. By April 20, lower slopes will be finishing; **Kami-Senbon is the target** — it blooms mid-to-late April and Hanayagura Viewpoint there gives the best panoramic view.
+- **Golden hour**: Sunset is ~18:50 on April 20 at Yoshino. Be at Hanayagura Viewpoint by 17:45 — the amber-pink light across the blooms is stunning and lasts a full hour.
 - **Tips**:
   - **Monday at Yoshino** — off-peak weekday, far fewer crowds than weekends
   - Ropeway is **one-way up only** — you'll walk the full descent (~60 min), including the steep section the ropeway covers
-  - 4 areas from bottom to top: Shimo-Senbon → Naka-Senbon → Kami-Senbon → Oku-Senbon
   - Kintetsu is NOT covered by JR Pass — it's a private railway
   - The **Limited Express last runs ~16:04** from Yoshino — evening return is by regular express (~90 min, ¥1,170)
   - Wear hiking shoes; ~300m net elevation gain, ~5.5km total walking on the mountain
   - Bring a charged power bank — you'll want battery for golden hour photos
   - Use phone torch for the descent after 18:50 — trail is well-worn but gets dark fast
-- **Estimated Day Cost**: ¥7,500–11,000 (transport ¥2,880–3,110 + food ¥4,200–7,500)
+- **Estimated Day Cost**: ¥8,000–13,000 (transport ¥3,450–3,680 + food ¥5,300–7,500)

@@ -1,39 +1,37 @@
 # Day 3 — 2026-04-19 (Sunday)
 
-> 🦌 _Osaka Aquarium + Nara Day Trip — Whale sharks in the morning, friendly deer and Great Buddha in the afternoon_
+> 🎋 _Kyoto Day 2 — Arashiyama bamboo at dawn, Golden Pavilion, relaxed Kyoto afternoon_
 
 ## Theme
 
-_Aquarium morning, Nara highlights afternoon, sake education evening_
+_Bamboo grove early before Sunday crowds, Golden Pavilion, then a lighter afternoon — last full day in Kyoto_
 
 ## Schedule
 
 | Time | Type | Activity | Location | Est. Cost | Notes |
 |------|------|----------|----------|-----------|-------|
-| 09:30 | Meal | Breakfast — convenience store or café | Namba area | ¥400–1,000 | Slow Sunday morning after Saturday night — no rush. **Convenience store** (¥400–600): grab onigiri on the way. **Café** (¥700–1,000): proper sit-down, still fine for a 10:30 aquarium start.<br>**If the group can't move by 09:30**: skip the aquarium and head straight to Nara at 10:30 JR — arrives 11:20, gives a full Nara afternoon with more breathing room. The aquarium is the only time-dependent part of today. |
-| 10:00 | Transit | Metro to Osakako | Namba → Osakako | ¥230 | Midosuji → Chuo Line, 20 min |
-| 10:30 | Activity | Osaka Aquarium Kaiyukan | Tempozan | ¥2,700 | Allow 2–2.5 hrs; whale shark tank, giant spider crab — hard exit by 13:00 |
-| 13:00 | Transit | Metro back to Namba | Osakako → Namba | ¥230 | Chuo Line, 20 min |
-| 13:30 | Transit | JR to Nara | JR Namba → JR Nara | ¥570 | JR Yamatoji Rapid, 50 min |
-| 14:20 | Activity | Walk to Nara Park | JR Nara → Nara Park | — | 15–20 min walk through shopping arcade |
-| 14:40 | Activity | Nara Park & deer feeding | Nara Park | ¥200 | Free park entry; deer crackers ¥200 — bow to them first! |
-| 15:30 | Activity | Todaiji Temple & Great Buddha | Todaiji | ¥600 | 15m-tall Buddha; closes 17:30 |
-| 16:30 | Meal | Late lunch / snack — street stalls near Todaiji | Nara Park area | ¥600–1,500 | Plenty of vendors open all afternoon; pick up something between sights |
-| 17:00 | Activity | Kasuga Taisha Shrine (or alternative — skip if tired) | Kasuga Taisha | ¥500 | **Kasuga Taisha** (¥500 inner area): stone lantern-lined forest path — choose this if you still have energy. Otherwise skip; deer and Todaiji are the Nara essentials.<br>**Alt — Isui-en Garden** (¥900): one of Japan's finest traditional gardens with layered ponds and borrowed scenery from Todaiji.<br>**Alt — Yoshiki-en Garden** (¥250, free for foreigners): smaller, mossier, nearly always quiet — easy to pair with Isui-en next door.<br>**Alt — More time in Nara Park** (free): just keep wandering with the deer. |
-| 17:30 | Meal | Dinner — Nara central area | Near JR Nara Station | ¥1,500–2,500 | Eat before Lamp Bar — lighter options along the shopping arcade between JR Nara and the park work well (ramen, set meals). **Alt — head back to Osaka early** (¥570 JR, 17:45 departure): eat at Torame Yokocho food alley in Namba (¥2,000–3,000) — choose this if the group is too tired for Lamp Bar. |
-| 19:30 | Nightlife | Lamp Bar (#46 Asia's 50 Best Bars 2025) | Nara City | ¥4,000–8,000 | World-class cocktail bar by Michito Kaneko (2015 World Class Bartending champion). Three antique-furnished rooms with different motifs; no written menu — bartenders tailor drinks to you using local Nara ingredients. **Reserve ahead — essential.**<br>**Alt — skip and head back early**: if the day has been long, leave Nara at 17:45 and do Asano Nihonshuten (sake, ¥1,500–3,000) or Beer Belly (craft beer, ¥2,000–3,500) in Osaka instead. |
-| 21:30 | Transit | JR back to Osaka | JR Nara → JR Namba | ¥570 | JR Yamatoji Rapid, 50 min. Last trains run past midnight — no rush. |
+| 07:30 | Meal | Breakfast — convenience store (recommended) | Gion area | ¥400–600 | Quick breakfast — early Arashiyama start is essential on Sunday |
+| 08:00 | Transit | Kyoto Station → JR Sagano Line to Saga-Arashiyama | Gion → Arashiyama via Kyoto Stn | ¥240 | 15 min on JR Sagano Line |
+| 08:45 | Activity | Arashiyama Bamboo Grove | Arashiyama | — | Free; **Sunday crowds build from 10:00** — 08:45 arrival is the whole point today.<br>**Lazy version**: if you were out late at The Book Store, depart 09:15 (arrive 10:00) — still manageable but expect more people. |
+| 09:15 | Activity | Tenryu-ji Temple & gardens (or alternative) | Arashiyama | ¥500–900 | **Tenryu-ji** (¥500–900): UNESCO Zen garden with a stunning pond reflecting Arashiyama.<br>**Alt — Monkey Park Iwatayama** (¥600): 20-min hike to 170 wild Japanese macaques with panoramic Kyoto views.<br>**Alt — Hozugawa River boat ride** (¥4,100, book ahead): 2-hr scenic gorge float. |
+| 10:30 | Activity | Togetsukyo Bridge & Katsura River | Arashiyama | — | Scenic riverside walk |
+| 11:00 | Meal | Lunch — Shigetsu (shojin ryori) or Arashiyama café | Arashiyama | ¥1,000–5,500 | **Shigetsu at Tenryu-ji** (¥3,000–5,500): full Buddhist vegetarian multi-course meal — the most distinctly Kyoto meal of the trip.<br>**Alt — casual café or noodle shop** (¥1,000–1,800): soba, tofu dishes — quick and cheap. |
+| 12:00 | Transit | Bus #93 to Kinkakuji | Arashiyama → Kinkakuji | ¥460 | 40 min; expect crowds on Sunday |
+| 13:00 | Activity | Kinkakuji (Golden Pavilion) | Kinkakuji | ¥500 | Stunning gold-leaf temple; 1 hr is enough |
+| 14:15 | Activity | Nijo Castle (or free afternoon) | Nijo Castle | ¥800 | **Nijo Castle** (¥800): 15 min by bus from Kinkakuji — UNESCO World Heritage site, the shogun's Kyoto palace; nightingale floors and ornate painted interiors; 1.5 hrs.<br>**Alt — Nishiki Market** (free entry, food ¥500–1,500): Kyoto's "kitchen" covered market — pick up snacks and food souvenirs; 10 min bus from Kinkakuji.<br>**Alt — free afternoon**: skip structured sightseeing and just wander Gion, browse shops, or rest — you've covered the essentials and Day 4 is an early checkout. |
+| 16:00 | Activity | Return to Gion area | Central Kyoto | — | Free time to browse, shop, or rest |
+| 18:00 | Meal | Dinner — relaxed Kyoto evening | Gion/Kawaramachi | ¥1,500–3,000 | Ramen on Kawaramachi, izakaya in Gion, or a sit-down noodle restaurant — no need to rush tonight |
+| 20:00 | Nightlife | Light drinks — Kiyamachi or BAR Atlantis | Pontocho/Kiyamachi | ¥1,500–3,000 | Easy Sunday night drinks — **last night in Kyoto**. Don't go too late; Day 4 is an early checkout and Yoshino. |
+| 21:30 | Transit | Return to hotel | Gion area | — | Overnight in Kyoto — Night 3 (last night). Pack for checkout tomorrow. |
 
 ## Notes
 
-- **Book ahead**: **Lamp Bar — reserve ahead, essential** (email or via website; a bar of this calibre fills up). Nothing else required.
-- **Closed Sunday**: Shimada Shoten sake cellar is **closed Sundays** — if skipping Lamp Bar and doing Osaka nightlife instead, go to Asano Nihonshuten (open till 23:00) or Nihonshu Unagidani in Shinsaibashi
-- **Skippable**: Kasuga Taisha — swap for Isui-en Garden (¥900, one of the most beautiful traditional Japanese gardens in Nara) or Yoshiki-en Garden (¥250, free for foreigners — quieter and mossy)
-- **Cherry blossoms**: Nara has late-blooming "Naranoyaezakura" (double cherry variety) that blooms late April — you may spot some in the park
+- **Book ahead**: Nothing required today. Hozugawa boat ride needs advance booking if chosen.
+- **Sunday crowds**: Arashiyama and Kinkakuji are at their busiest on Sundays — the early Arashiyama start (08:45) is non-negotiable. Kinkakuji is always crowded but manageable.
+- **Cherry blossoms**: Arashiyama is beautiful regardless of blooms.
 - **Tips**:
-  - Aquarium takes 2–2.5 hrs to do properly — don't rush through it
-  - Deer can be aggressive when they see crackers — bow to them first (they bow back!)
-  - Keep bags zipped; deer eat paper and maps
-  - Nara afternoon is shorter today (~3.5 hrs) but covers all the main highlights
-  - Shimada Shoten's underground cellar is a unique experience on other days (enter through sake shop, climb down a ladder to rare sake from 250+ breweries)
-- **Estimated Day Cost**: ¥14,000–23,000 (transport ¥1,600 + aquarium ¥2,700 + Nara attractions ¥1,300–1,700 + food ¥3,400–5,200 + Lamp Bar ¥4,000–8,000 [skip for lower end])
+  - **Arrive Arashiyama by 08:45** — Sunday tour buses arrive from 10:00
+  - Kinkakuji is always crowded; 1 hour is enough — don't linger
+  - Nijo Castle is underrated and fits perfectly after Kinkakuji (same northwest Kyoto area)
+  - Pack tonight — Day 4 checkout is early and you're heading to Osaka then Yoshino
+- **Estimated Day Cost**: ¥8,000–14,000 (transport ¥700 + attractions ¥1,800–2,700 + food ¥4,500–8,000 + drinks ¥1,500–3,000)

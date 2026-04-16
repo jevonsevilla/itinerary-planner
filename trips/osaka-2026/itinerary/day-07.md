@@ -1,12 +1,12 @@
 # Day 7 — 2026-04-23 (Thursday)
 
-> 🥩 _Kobe Day Trip + Group Split — Kobe beef lunch together, then Cathay Pacific group flies home while Cebu Pacific group has one final Osaka night_
+> 🥩 _Kobe Day Trip + Group Split — Kobe beef lunch together, then Cathay Pacific group flies home while Cebu Pacific group has one final quiet Osaka night_
 
 > ⚠️ **Departure split today**: Cathay Pacific group flies out at 17:35 — branch off after lunch. Cebu Pacific group continues for one more night.
 
 ## Theme
 
-_Kobe chinatown and beef lunch for everyone, then the group splits: one flies, one winds down quietly_
+_Kobe chinatown and beef lunch for everyone, then the group splits: one flies, one winds down quietly (farewell was last night)_
 
 ## Schedule
 
