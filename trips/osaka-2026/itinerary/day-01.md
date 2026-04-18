@@ -1,40 +1,41 @@
 # Day 1 — 2026-04-17 (Friday)
 
-> ✈️ _Arrival & First Night in Kyoto — Two groups converge on Gion, then Pontocho for the first taste of Japan_
+> ✈️ _Arrival → Kyoto — Both groups take Haruka straight from KIX to Kyoto; reunite in Gion for a light first-night dinner and Pontocho drinks_
 
-> ⚠️ **Two arrival groups today**: Cathay Pacific lands 15:10 (Terminal 2) — 3+ hours ahead of the Cebu Pacific group (18:20, Terminal 1). Early arrivers head straight to Kyoto and get settled; full group reunites in the evening.
+> ⚠️ **Two arrival groups today**: Cathay Pacific lands 15:10 (Terminal 2) — ~3 hours ahead of the Cebu Pacific group (18:20, Terminal 1). Early arrivers reach Kyoto ~17:30 and have time to settle in; full group reunites at ~21:30 in Gion.
 
 ## Theme
 
-_Arrival day — both groups transit KIX to Kyoto, then explore Pontocho together_
+_Transit day — head straight to Kyoto from KIX, check in, then a gentle first evening in Gion and Pontocho_
 
 ## Schedule
 
 | Time | Type | Activity | Location | Est. Cost | Notes |
 |------|------|----------|----------|-----------|-------|
-| 15:10–15:55 | Flight | Arrive KIX — immigration, baggage, customs | KIX Terminal 2 | — | Early arrivers only |
-| 15:55–16:10 | Activity | Purchase Haruka e-ticket + buy IC card | KIX Station | ¥1,910 | Early arrivers only; ICOCA for the whole trip |
-| 16:15–17:30 | Transit | JR Haruka Limited Express to Kyoto Station | KIX → Kyoto Station | ¥1,910 | Early arrivers only; 75 min; reserved seats recommended |
-| 17:30–18:00 | Hotel | Check in | Gion/Higashiyama area | — | Early arrivers only; request early check-in; store bags if room not ready |
-| 18:00–19:30 | Activity | Scout Gion & Higashiyama | Gion → Hanamikoji | — | Early arrivers only; walk Hanamikoji Street, Shimbashi canal, spot the willow-lined alleys at dusk |
-| 19:30–20:00 | Rest | Freshen up | Hotel | — | Early arrivers only |
-| 18:20–19:00 | Flight | Arrive KIX — immigration, baggage, customs | KIX Terminal 1 | — | Cebu Pacific group; buy IC card at station |
-| 19:00–19:15 | Activity | Purchase Haruka e-ticket | KIX Station | ¥1,910 | Cebu Pacific group |
-| 19:30–20:45 | Transit | JR Haruka Limited Express to Kyoto Station | KIX → Kyoto Station | ¥1,910 | Cebu Pacific group |
-| 20:45–21:15 | Hotel | Check in | Gion/Higashiyama area | — | Cebu Pacific group; drop bags, freshen up |
-| ~21:15 | Activity | Full group reunites | Hotel | — | Head out together for the evening |
-| 21:15–22:15 | Meal | Dinner — Pontocho alley | Pontocho | ¥1,500–3,000 | Many restaurants open late; yakitori, ramen, or izakaya along the narrow alley beside the Kamo River |
-| 22:15–23:30 | Nightlife | Kiyamachi bars | Kiyamachi | ¥1,000–2,500 | **BAR Atlantis** (¥2,000–3,500): outdoor Kamo River seating on Pontocho — the most atmospheric first-night drink in Kyoto.<br>**Alt — craft beer or standing bar on Kiyamachi** (¥1,000–2,000): Kiyamachi-dori runs parallel to Pontocho and has more casual options, best if the group is exhausted and wants something quick. |
-| 23:30 | Transit | Return to hotel | Gion area | — | Rest up — Day 2 starts with Fushimi Inari |
+| 15:10–15:55 | Flight | Arrive KIX — immigration, baggage, customs | KIX Terminal 2 | — | Cathay group only |
+| 15:55–16:15 | Activity | Buy IC card (ICOCA) + JR Haruka ticket at KIX Station | KIX Station | ¥1,800–3,640 | Cathay group; **ICOCA & Haruka combo** (~¥1,800 one-way) is the cheapest option — buy at JR Ticket Office (exchange voucher if bought online). Plain Haruka reserved is ¥3,640. |
+| 16:16 | Transit | JR Haruka to Kyoto Station | KIX → Kyoto | — | Cathay group; ~75 min direct, reserved seat. Next Haruka if missed: 16:46. |
+| 17:30 | Hotel | Check in to Kyoto hotel | Gion / Higashiyama | — | Cathay group; request early check-in. Most properties allow bag drop even if room isn't ready. |
+| 18:00–20:30 | Activity | Free time — Gion walk, quick snack | Gion / Pontocho | ¥500–1,500 | Cathay group; scout Hanamikoji Street (possible geisha sightings 18:00–19:00), stroll the Kamo River, grab matcha soft-serve or coffee. Don't over-do it — big day tomorrow. |
+| 18:20–19:00 | Flight | Arrive KIX — immigration, baggage, customs | KIX Terminal 1 | — | Cebu Pacific group |
+| 19:00–19:15 | Activity | Buy IC card (ICOCA) + JR Haruka ticket at KIX Station | KIX Station | ¥1,800–3,640 | Cebu group; same ICOCA & Haruka combo option. |
+| 19:16 | Transit | JR Haruka to Kyoto Station | KIX → Kyoto | — | Cebu group; ~75 min direct. Next Haruka if missed: 19:46. |
+| 20:30–21:15 | Transit | Taxi or Keihan/bus to Gion hotel | Kyoto Station → Gion | ¥230–1,500 | Cebu group; taxi is ~15 min / ¥1,500 split four ways, or Keihan Line + short walk (¥230, ~25 min). |
+| 21:15–21:30 | Hotel | Check in, drop bags | Gion / Higashiyama | — | Cebu group; freshen up quickly — group is waiting |
+| ~21:30 | Activity | **Full group reunites** | Near hotel / Gion | — | Meet up and head to dinner together |
+| 21:30–22:45 | Meal | First group dinner — casual izakaya | Gion or Pontocho | ¥2,000–3,500 | **Gion Tanto** (¥2,500–4,000) if reserved — yakitori with sake pairings, intimate counter. **Alt — Gombei** (¥2,000–3,000, **Bib Gourmand**): Gion Kitagawa soba specialist; tempura soba and nishin (herring) soba done classically — walk-in friendly and a solid Michelin-recognized pick for arrival night. **Alt — Gogyo Kyoto** (¥2,000–3,000): burnt-miso ramen and small plates, lively and late. **Alt — any Pontocho chōchin-lit izakaya** — pick what has space; night one is about sake and yakitori under paper lanterns. |
+| 22:45–00:00 | Nightlife | First Kyoto drinks — BAR Atlantis | Pontocho | ¥2,000–3,500 | Only bar on Pontocho with **outdoor riverside seating along the Kamo**; house cocktails in a beautiful setting. Easy low-key intro to Kyoto nightlife.<br>**Alt — just wander Pontocho and Kiyamachi** (¥1,000–2,000): lantern-lit alleys, pop into any small bar. Best if jet lag is hitting and you want to bail early. |
+| 00:00 | Transit | Walk back to hotel | Gion area | — | Hotel is walking distance from Pontocho — ~10 min across the Kamo |
 
 ## Notes
 
-- **Book ahead**: Purchase Haruka e-tickets at KIX on arrival (no advance booking required, but reserved seats are recommended in cherry blossom season)
-- **Cherry blossoms**: Kyoto lowland peak was early April — late-blooming varieties may still be visible at Maruyama Park; expect green Gion streets but still beautiful
+- **Book ahead**: Kyoto hotel for tonight + next two nights (three nights total in Kyoto, Apr 17–19). Reserve Haruka seats online via Klook/JR-West app for the ICOCA & Haruka combo discount.
+- **Cherry blossoms**: Peak was early April; most Kyoto lowland blooms have finished. Maruyama Park and Philosopher's Path may still have lingering late varieties — all tomorrow's problem.
 - **Tips**:
-  - Buy an IC card (ICOCA or equivalent) at KIX — you'll use it every day in Kyoto and Osaka
-  - The Haruka is the fastest KIX → Kyoto link (75 min); no transfers, direct to Kyoto Station
-  - Gion at dusk is stunning — the willow-lined Shimbashi canal and lantern-lit Hanamikoji are quintessential Kyoto
-  - Pontocho is most magical at night with its narrow lantern-lit alley
-  - Don't over-schedule tonight — jet lag is real; BAR Atlantis alone is a great first night
-- **Estimated Day Cost**: ¥5,500–9,000 (transport ¥1,910 + food ¥2,500–4,000 + drinks ¥1,000–2,500)
+  - **ICOCA & Haruka combo** (~¥1,800) is the right ticket — cheaper than standalone Haruka and you get the IC card at the same window
+  - Haruka runs roughly every 30 min; if you miss one, the next is soon
+  - Haruka stops at Kyoto Station — Gion is 15 min east by taxi or Keihan Line (Gion-Shijo stop)
+  - Don't over-schedule tonight — jet lag is real, and Saturday is a full day
+  - Hotel in Gion/Higashiyama puts you walking distance from Pontocho and most of Day 2's sights
+  - Last Keihan/Metro runs ~midnight; if out later, taxi is cheap split four ways
+- **Estimated Day Cost**: ¥6,000–10,000 (transport ¥1,800–3,640 + food ¥2,500–5,000 + drinks ¥2,000–3,500)

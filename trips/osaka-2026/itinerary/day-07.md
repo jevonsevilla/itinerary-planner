@@ -27,8 +27,8 @@ _Kobe chinatown and beef lunch for everyone, then the group splits: one flies, o
 | 14:30 | Activity | Last shopping — Shinsaibashi / Don Quijote | Shinsaibashi | — | 5J group; final souvenirs; tax-free for tourists |
 | 16:30 | Rest | Freshen up | Hotel | — | 5J group; shower, decompress — the big farewell was last night |
 | 17:35 | Flight | Depart KIX | KIX Terminal 2 | — | CX group; Cathay Pacific CX → MNL, arrives 00:15+1 |
-| 19:00 | Meal | Quiet group dinner — just the Cebu Pacific crew | Namba area | ¥1,500–2,500 | 5J group. No big occasion tonight — just a relaxed last meal together. **Kushikatsu Daruma** (¥1,500–2,500): Osaka's most iconic bite, fun and casual.<br>**Alt — Kiji** (¥1,500–2,500): fluffy okonomiyaki — Osaka comfort food at its best, no rush. |
-| 20:30 | Nightlife | Bar Nayuta (#100 Asia's 50 Best Bars 2025) | Amemura | ¥3,000–5,000 | 5J group. Hidden door near Triangle Park in Amemura — bespoke cocktails tailored to you, no written menu. Intimate and a fitting final night. **Aim to leave by 22:00; flight is tomorrow.**<br>**Alt — Craftroom** (#58 Asia's 50 Best Bars 2025, Umeda, ¥3,000–6,000): highest-ranked bar in Osaka; 6-seat precision counter under Osaka Ekimae Daiichi Building — worth the 20-min metro to Umeda for the definitive top-50 experience.<br>**Alt — Bar Freedom** (Sennichimae, ¥2,000–4,000): intimate 10-seat whisky bar; not ranked but excellent locally and very close to hotel. |
+| 19:00 | Meal | Quiet dinner — just the Cebu Pacific crew | Namba area | ¥1,500–2,500 | 5J group. No big occasion tonight — the real group farewell was at Lamp Bar last night. **Kushikatsu Daruma** (¥1,500–2,500): Osaka's most iconic bite, fun and casual.<br>**Alt — Jibundoki** (¥2,000–3,000, **Bib Gourmand**): teppanyaki counter near Namba doing Osaka-style okonomiyaki, negiyaki, and modanyaki at a serious level — Michelin-recognized, still relaxed enough for a last-night dinner.<br>**Alt — Kiji** (¥1,500–2,500, **Bib Gourmand**): fluffy okonomiyaki — Osaka comfort food at its best, no rush. |
+| 20:30 | Nightlife | **Craftroom (#58 Asia's 50 Best Bars 2025)** | Umeda | ¥3,000–6,000 | 5J group. Highest-ranked bar in Osaka; 6-seat precision counter under Osaka Ekimae Daiichi Building — worth the 20-min metro to Umeda for the definitive top-50 experience. Intimate and a fitting final night. **Aim to leave by 22:30; flight is tomorrow.**<br>**Alt — Bar Freedom** (Sennichimae, ¥2,000–4,000): intimate 10-seat whisky bar; not ranked but excellent locally and very close to hotel — best if you'd rather walk home than metro to Umeda.<br>**Alt — second visit to Bar Nayuta** (¥3,000–5,000): if Tuesday's session was a highlight, an encore at the Amemura speakeasy is just as fitting. |
 
 ## Notes
 
@@ -39,5 +39,5 @@ _Kobe chinatown and beef lunch for everyone, then the group splits: one flies, o
   - Nankinmachi street food is cheap and delicious — steamed buns, ramen, tapioca
   - Don Quijote in Dotonbori: everything discounted, tax-free for tourists
   - Hotel is walking distance from Namba nightlife
-  - 5J group: tonight is low-key on purpose — set an alarm, flight is tomorrow
+  - 5J group: tonight is low-key on purpose — the Lamp Bar night was the real group send-off; set an alarm, flight is tomorrow
 - **Estimated Day Cost**: ¥18,000–30,000 (transport ¥1,630 + Kobe beef lunch ¥3,000–6,000 + other food ¥2,100–3,400 + nightlife ¥8,000–16,000 [5J group])

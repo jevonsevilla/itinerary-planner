@@ -6,7 +6,8 @@
       "Bash(python3:*)",
       "Bash(security find-internet-password:*)",
       "mcp__claude_ai_Notion__notion-create-pages",
-      "mcp__claude_ai_Notion__notion-update-page"
+      "mcp__claude_ai_Notion__notion-update-page",
+      "Bash(xmllint --noout /Users/jevon.sevilla/Projects/personal/itinerary-planner/trips/osaka-2026/osaka-2026.kml)"
     ]
   }
 }

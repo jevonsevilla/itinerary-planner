@@ -30,7 +30,7 @@ _One last shrine, final shopping, then home_
   - **Be at KIX by 17:00** for the 19:35 flight (2.5hr before international departure)
   - Cebu Pacific check-in opens 3hr before departure (16:35)
   - Baggage: 7kg cabin bag is strictly enforced — weigh at hotel before leaving
-  - Final shopping priorities: KitKat matcha, Uji matcha from Day 6, Osaka snacks, Japanese cosmetics
+  - Final shopping priorities: KitKat matcha, Uji matcha (stocked up on Day 3), Osaka snacks, Japanese cosmetics
   - KIX has extensive duty-free shopping inside — save some yen for there
   - IC card: keep for future trips to Japan, or get the ¥500 deposit refunded at the station
 - **Estimated Day Cost**: ¥4,500–6,500 (transport ¥1,960 + food ¥2,100–3,500 + snacks ¥500–1,000)
@@ -58,14 +58,16 @@ _One last shrine, final shopping, then home_
 | Osaka | 4 nights at ¥5,000–8,000/night = ¥20,000–32,000 |
 | **Total** | **¥44,000–77,000** |
 
-**Grand Total (excluding flights): ¥121,000–193,000 (~$790–1,260 USD)**
+**Grand Total (excluding flights): ¥127,000–207,000 (~$830–1,350 USD)**
 
 **Trip Highlights**
-- 🌸 Mount Yoshino late cherry blossoms (Day 4)
-- 🍶 Fushimi sake brewery district (Day 2)
-- 🍵 Uji matcha-making experience (Day 3)
-- 🎋 Arashiyama bamboo grove at dawn (Day 3)
-- 🎵 Osaka club night: Ura Namba izakayas → Circus Osaka → Bar Nayuta (#100 Asia's 50 Best) (Day 5)
-- 🌙 3 nights in Kyoto — Pontocho, Kiyamachi, Gion evenings (Days 1–3)
-- 🥂 Farewell group dinner: Tsuruhashi yakiniku + Bar Nayuta (Day 6)
-- 🥩 Kobe beef lunch (Day 7)
+- 🌸 Mount Yoshino late cherry blossoms at golden hour (Day 4)
+- ⛩️ Fushimi Inari torii gates + Fushimi sake brewery district (Day 2)
+- 🚶 Philosopher's Path from Ginkaku-ji to Nanzen-ji (Day 2)
+- 🎋 Arashiyama bamboo grove + Kinkakuji Golden Pavilion (Day 3)
+- 🍵 Uji matcha-making at Fukujuen + Byodo-in (Day 3)
+- 🌙 Kyoto Saturday night on Pontocho — nice izakaya + BAR Atlantis riverside (Day 2)
+- 🎵 Osaka night: Ura Namba izakaya crawl → Bar Nayuta (#100 Asia's 50 Best) (Day 5)
+- 🍸 Lamp Bar, Nara (#46 Asia's 50 Best Bars) — world-class bespoke cocktails (Day 6)
+- 🥩 Kobe beef lunch — full group farewell (Day 7)
+- 🥂 Cebu farewell night: quiet dinner + Craftroom (#58 Asia's 50 Best) (Day 7)

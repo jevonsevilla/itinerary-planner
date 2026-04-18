@@ -24,6 +24,7 @@
 - Day trip to Nara
 - 3 nights in Kyoto (start of trip)
 - Visit Uji for matcha
+- Walk Philosopher's Path
 - Kobe beef experience
 
 ## 💰 Budget
@@ -41,13 +42,13 @@
 
 | Day | Date | Highlight |
 |-----|------|-----------|
-| 1 | 2026-04-17 (Fri) | Two-Group Arrival → Kyoto — Cathay Pacific earlybirds arrive 15:10 and head to Kyoto; Cebu Pacific group arrives 18:20; full group reunites in the evening for Pontocho and Kiyamachi |
-| 2 | 2026-04-18 (Sat) | Kyoto Day 1 — Uji matcha morning (Fukujuen + Byodo-in), Fushimi Inari afternoon, Higashiyama, Pontocho Saturday night |
-| 3 | 2026-04-19 (Sun) | Kyoto Day 2 — Arashiyama bamboo at dawn, Golden Pavilion, relaxed afternoon |
-| 4 | 2026-04-20 (Mon) | Kyoto → Osaka + Mount Yoshino — Check out, move to Osaka base, then late-blooming sakura on a quiet Monday |
-| 5 | 2026-04-21 (Tue) | Classic Osaka — Castle, markets, Shinsekai, big Tuesday night out |
-| 6 | 2026-04-22 (Wed) | Nara Day Trip + Farewell Dinner — Osaka Aquarium Kaiyukan, deer and temples in Nara, last full-group dinner and farewell drinks |
-| 7 | 2026-04-23 (Thu) | Kobe Day Trip + Group Split — Kobe beef lunch together; Cathay Pacific group departs 17:35, Cebu Pacific group has final quiet Osaka night |
+| 1 | 2026-04-17 (Fri) | Arrival → Kyoto — Cathay Pacific lands 15:10, Cebu Pacific 18:20; both groups take Haruka straight to Kyoto, reunite in Gion for light first-night dinner and Pontocho drinks |
+| 2 | 2026-04-18 (Sat) | Kyoto Day 1 — Fushimi Inari, Fushimi sake district, Ginkaku-ji, Philosopher's Path, Nanzen-ji, Kiyomizu-dera, Gion, Saturday night on Pontocho (nice izakaya + riverside bar) |
+| 3 | 2026-04-19 (Sun) | Kyoto Day 2 — Arashiyama bamboo, Kinkakuji, Uji matcha-making at Fukujuen, Byodo-in, farewell Kyoto dinner |
+| 4 | 2026-04-20 (Mon) | Kyoto → Osaka → Yoshino — Morning transfer to Osaka hotel, then Kintetsu to Mount Yoshino for golden-hour cherry blossoms at Hanayagura |
+| 5 | 2026-04-21 (Tue) | Classic Osaka — Castle, Kuromon, Shinsekai, Shinsaibashi, okonomiyaki dinner, Ura Namba izakaya crawl, Bar Nayuta |
+| 6 | 2026-04-22 (Wed) | Nara Day Trip — Osaka Aquarium Kaiyukan morning, then friendly deer and Todaiji in Nara, evening at Lamp Bar (Asia's 50 Best #46) |
+| 7 | 2026-04-23 (Thu) | Kobe Day Trip + Group Split — Kobe beef lunch together; Cathay Pacific group departs 17:35, Cebu Pacific group has farewell Osaka night |
 | 8 | 2026-04-24 (Fri) | Cebu Pacific Departure — Morning visit to Sumiyoshi Taisha shrine, final shopping in Namba, airport transfer |
 
 ## ✅ Status
